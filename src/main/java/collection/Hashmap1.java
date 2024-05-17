@@ -13,7 +13,10 @@ public class Hashmap1 {
 		map.put(3, "neha");
 		
 		for(Integer boss : map.keySet()) {
-			System.out.println(map);
+
+			int num = Integer.parseInt(map.get(boss));
+
+			System.out.println();
 		}
 	}
 
