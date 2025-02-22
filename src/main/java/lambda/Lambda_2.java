@@ -16,7 +16,8 @@ public class Lambda_2 {
 		names.add("sunil");
 		names.add("anamika");
 		names.add("kajol");
-		//names.forEach((n)->{System.out.println(n);});
+		names.forEach((n)->{System.out.println(n);});
+		System.out.println();
 		
 		names.sort(Comparator.comparing(s->s));
 		System.out.println(names);

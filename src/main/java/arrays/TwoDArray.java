@@ -11,6 +11,7 @@ public class TwoDArray {
             for(int j=0; j<a[i].length; j++)
             {
                 System.out.print(a[i][j]+" ");
+
             }
         }
     }

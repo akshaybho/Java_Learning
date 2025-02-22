@@ -9,6 +9,9 @@ public class Lambda2Addable {
 		
 		Addable ad2 = (a, b)->(a+b);
 		System.out.println(ad2.add(300, 400));
+
+		Addable ad3 = (c, d) ->(c+d);
+		System.out.println(ad3.add(54,26));
 	}
 
 }

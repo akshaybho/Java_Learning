@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class MissingNumbers {
     public static void main(String[] args) {
-        int []b = {2,4,1,5,7,8,0,11,12,14,16,15};
+        int []b = {2,4,1,5,7,8,0,11,12,16,15,14,17};
         missingNumbers(b);
     }
     public static void missingNumbers(int []a){

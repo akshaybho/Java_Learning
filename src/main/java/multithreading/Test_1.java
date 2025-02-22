@@ -5,6 +5,7 @@ public class Test_1 extends Thread{
     public void run()
     {
         System.out.println("Thread starts running");
+        System.out.println(Thread.currentThread().getId());
     }
 
     public static void main(String[] args) {

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/InsertDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/IsertJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/PreparedStatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/ResultSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/HighestMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructor/Problem_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructor/Problem_5Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandling/ReadingPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerclass/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/innerclass/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/Super_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/Super_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/LambdaStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/NameStartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Pattern_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/Test_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/Threading_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/MainAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ContinuosSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/FISInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/FrequencyWithoutMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Interview_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ProductArrayExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/RevWordInSen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/SeparateEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/SumFilterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project_2/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regex/Regex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SquareList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Stream_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Stream_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/SeparaetNumberString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestJava/FreqOfWords_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestJava/MasterCardTest_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/TwoDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ReverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/ReverseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Lambda2Addable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Lambda2Addable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Lambda_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Lambda_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/Test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Test_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/Encapsulation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/Encapsulation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/Encapsulation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/FrequencyOfChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/FrequencyOfChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/MissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/IQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/string/IQ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestJava/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestJava/CountWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestJava/Rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestJava/Rough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/saloniLearn/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/saloniLearn/Variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2mCUvjsR3h3OouajsQX0hb5E98E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/ak/demo",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Method_2">
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.LongestSubstring" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.Method_2" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MissingNumber" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeNew.PracticeTest" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeNew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductArrayExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.ProductArrayExc" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Method_2" />
+        <item itemvalue="Application.PracticeTest" />
+        <item itemvalue="Application.ProductArrayExc" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.LongestSubstring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="" />
+      <created>1726580286227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726580286227</updated>
+    </task>
+    <servers />
+  </component>
+</project>

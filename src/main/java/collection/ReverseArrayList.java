@@ -15,7 +15,7 @@ public class ReverseArrayList {
 		list.add("grapes");
 		list.add("dates");
 		
-		System.out.println(list.toString());
+
 		
 		Collections.reverse(list);
 		

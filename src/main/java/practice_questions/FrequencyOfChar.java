@@ -29,5 +29,13 @@ public class FrequencyOfChar {
         {
             System.out.println(" Character " + b + " occures " + freqMap.get(b));
         }
+
+        StringBuilder result = new StringBuilder();
+
+        for(int d : freqMap.values())
+        {
+            result.append(d);
+        }
+        System.out.println(result.toString());
     }
 }
