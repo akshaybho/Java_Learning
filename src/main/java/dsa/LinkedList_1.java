@@ -21,7 +21,7 @@ public class LinkedList_1 {
 
     }
 
-    public void addLast(String data){
+   /* public void addLast(String data){
 
         Node newNode = new Node(data);
         if(head==null){
@@ -34,7 +34,7 @@ public class LinkedList_1 {
             currNode = currNode.next;
         }
         currNode.next = newNode;
-    }
+    }*/
 
     public void printList(){
         if(head == null){
@@ -55,7 +55,7 @@ public class LinkedList_1 {
         list.addFisrt("a");
         list.addFisrt("is");
         list.printList();
-        list.addLast("list");
+      //  list.addLast("list");
         list.printList();
         list.addFisrt("this");
         list.printList();

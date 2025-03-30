@@ -7,7 +7,7 @@ public class Duplicate1 {
      
 	public static void main(String[] args) {
 		
-		int []arr = {1,2,3,4,2,3,4,56,2,1,3};
+		int []arr = {0,0,1,1,1,2,2,3,3,4};
 	
 		Set <Integer> seen = new HashSet<>();
 		Set <Integer> dupli = new HashSet<>();
@@ -20,5 +20,6 @@ public class Duplicate1 {
 				seen.add(arr[i]);
 			}
 		}System.out.println("duplicate = "+dupli);
+		System.out.println(seen);
 	}
 }

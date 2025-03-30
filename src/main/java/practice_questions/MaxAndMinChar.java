@@ -5,12 +5,15 @@ public class MaxAndMinChar {
         String s = "esterdaa ia watcahed abdaul karaim taelagi saeries";
         char []c = s.toCharArray();
         int []freq = new int[s.length()];
+
         for(int i=0; i<s.length();i++){
+
             freq[i] = 1;
-            for(int j=i+1;j<s.length();j++){
-                if(c[i]!=' ' && c[i]==c[j] && c[i]!='0'){
+            for(int j=i+1;j<s.length();j++) {
+                if (c[i] != ' ' && c[i] == c[j] && c[i] != '0') {
                     freq[i]++;
-                }
+
+            }
             }
         }
         char minChar = s.charAt(0);

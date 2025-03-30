@@ -10,7 +10,7 @@ public class LongestSubstring {
         String s = "abcdabcde";
 
         int start =0, end =0;
-        int max =0;
+
 
         List<Character> list = new ArrayList<>();
 
@@ -20,7 +20,7 @@ public class LongestSubstring {
             {
                 list.add(s.charAt(end));
                 end++;
-                max = Math.max(max, list.size());
+
             }
             else
             {
@@ -28,8 +28,6 @@ public class LongestSubstring {
                 start++;
             }
         }
-        System.out.println(max);
-
-
+        System.out.println(list);
     }
 }

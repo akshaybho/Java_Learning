@@ -16,6 +16,6 @@ public class Factorial {
     }
     public static void main(String[] args) {
         Factorial f = new Factorial();
-        f.fact(23);
+        f.fact(5);
     }
 }
