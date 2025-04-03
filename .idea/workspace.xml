@@ -5,84 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/SearchInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/LinkedList_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/LinkedList_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception_handling/Exception_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception_handling/Exception_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mathfuctions/Math_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mathfuctions/Math_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mathfuctions/Math_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/DaemonThreads_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/AssignementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/AddMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CommonInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CountPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/FirstNonRepatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfSunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/PetersonNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/RemoveOccurences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/SunnyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/FindDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveDupliChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/DivideStringEqualParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/LeetCode_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/HighestProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/replaceWithMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ReplaceDupli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/FindDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/OccurencesOfNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PracticeNew/PracticeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/Duplicate1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/arrays/Duplicate1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Arithemetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Arithemetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Ternary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Ternary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice_questions/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice_questions/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MaxAndMinChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice_questions/MaxAndMinChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/AnagramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/AscendingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/CountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/Duplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/FiboNacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/FirstCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/FreqOfWords_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/FreqofChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/FreqofWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/KthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/LargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/ListOfPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/LongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/MasterCardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/MasterCardTest_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/MissingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/PrimeRecognise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/RepeatedChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/RevSentence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/Rough.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/SeparateNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/TestJava/Simple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/saloniLearn/Datatype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/saloniLearn/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/saloniLearn/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/saloniLearn/TypesOfVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/saloniLearn/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/PracticeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Duplicate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Duplicate1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dsa/LinkedList_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/LinkedList_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/Arithemetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/Arithemetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operator_Switch_staement/Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/LongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/MaxAndMinChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/MaxAndMinChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/PracticeNew/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/PracticeNew/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FirstNonRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice_questions/FirstNonRepeatingChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/PowerOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/practice_questions/PowerOfTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/streams/FindDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/FirstNonRepatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/FirstNonRepatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/PowerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FindDuplicates.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,13 +65,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SearchInsert">
-    <configuration name="LeetCode_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.LeetCode_1" />
+  <component name="RunManager" selected="Application.OccurencesOfNumber">
+    <configuration name="FindDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.FindDistinct" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Pattern_2" />
+    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MaxNumber" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Pattern_3" />
+    <configuration name="OccurencesOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.OccurencesOfNumber" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Pattern_4" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.PowerOfTwo" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="practice_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SearchInsert" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="PracticeNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchInsert" />
-        <item itemvalue="Application.LeetCode_1" />
-        <item itemvalue="Application.Pattern_4" />
-        <item itemvalue="Application.Pattern_3" />
-        <item itemvalue="Application.Pattern_2" />
+        <item itemvalue="Application.OccurencesOfNumber" />
+        <item itemvalue="Application.FindDistinct" />
+        <item itemvalue="Application.MaxNumber" />
+        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740223800971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java">
+      <option name="closed" value="true" />
+      <created>1743340502007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340502007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java">
+      <option name="closed" value="true" />
+      <created>1743340510891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340510891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

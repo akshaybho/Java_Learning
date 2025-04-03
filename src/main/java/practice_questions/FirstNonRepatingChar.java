@@ -26,7 +26,7 @@ class FirstNonRepeatingChar {
 
             if(freqMap.get(b)<2)
             {
-
+                System.out.println(b);
             }
         }
 

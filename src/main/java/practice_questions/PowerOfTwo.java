@@ -8,10 +8,7 @@ public class PowerOfTwo {
         {
             System.out.println("False");
         }
-        else if(n == 1)
-        {
-            System.out.println("True");
-        }
+
         else
         {
             while(n%2 == 0)
@@ -34,7 +31,7 @@ public class PowerOfTwo {
 
     public static void main(String[] args) {
 
-        isPowerOfTwo(24);
+        isPowerOfTwo(16);
 
     }
 }
