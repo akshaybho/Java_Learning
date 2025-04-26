@@ -1,4 +1,4 @@
-package dsa;
+package dsa.alorithm;
 
 public class SelectionSort {
 

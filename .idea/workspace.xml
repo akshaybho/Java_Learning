@@ -4,301 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception_handling/CustomException_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception_handling/MyCustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/LambdaEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/Test_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/threadpool/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/threadpool/ThreadPool_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfPerfect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/PerfectNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/RemoveLeadingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Special.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Interview/Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Interview/FreqChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Interview/FreqWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Interview/SeparateOutNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/JDBC/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/JDBC/InsertDynamic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/JDBC/IsertJDBC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/JDBC/PreparedStatementDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/JDBC/ResultSetDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PracticeNew/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/Array_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/Duplicate1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/HighestMarks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/HighestProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/KthLagest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/MergeArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/SearchInsert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/SumOf2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/TwoDArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/arrays/replaceWithMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/autoboxing/IntWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/autoboxing/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Calendar_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Date_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Date_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Date_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Date_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/calendar/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ArrayList1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ArrayList2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ArrayList3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ArrayList4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ArrayListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ConvertArraylistToArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/HashMap2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/Hashmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/Hashmap1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/LinkedList1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/List_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ReadAndMakeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/ReverseArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/collection/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_5a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Constructor_7a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/constructor/Problem_5Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_1$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_3$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/LinkedList_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/dsa/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/exception_handling/Exception_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/exception_handling/Exception_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/fileHandling/ReadingFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/fileHandling/ReadingPdf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/fileHandling/WritingFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/innerclass/A$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/innerclass/A$C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/innerclass/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/innerclass/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/keywords/Main_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/keywords/Super_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/keywords/Super_1_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/keywords/Super_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/keywords/Super_2_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Addable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/AlphabeticalOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/EvenNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Lambda1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Lambda2Addable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Lambda3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/LambdaDrawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/LambdaStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Lambda_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/NameStartsWith.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Stream_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/lambda/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_5AnotherWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/loops/Pattern_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/mathfuctions/Math_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/mathfuctions/Math_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/mathfuctions/Math_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/mathfuctions/Math_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/methods/Method_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/miscellaneous/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/DaemonThreads_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/multithreading/Threading_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/BikeInh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/CarInh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Class1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Class2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Class3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Class4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Inheritance1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/VehicleInh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/encapsulations/Encapsulation1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/encapsulations/Encapsulation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/encapsulations/Encapsulation3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/interfaces/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/interfaces/MainAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/oops/interfaces/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Arithemetic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/AssignementOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Bitwise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Logical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Months.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Relational.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Shift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/SimpleCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/operator_Switch_staement/Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/AddMatrices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/AgeCal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ArmstrongNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ArrangeNames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ArrayDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ArrayInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/AscendingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/AutomorphicNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/AvgArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/CommonEle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/CommonInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/CompressString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ContinuosSubArraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/CountPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/CountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Counting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FISInterview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FirstNonRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FourthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FreqWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FrequencyOfChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/FrequencyWithoutMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Interview_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LCM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LargeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LargerNumberInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ListOfSunny.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ListofPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/LongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MasterCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MaxAndMinChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MaxOccurenceChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MinArrayNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/MissingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Multiple10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/PetersonNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/PowerOfTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ProductArrayExc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/RemoveOccurences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ReplaceDupli.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/RevSentence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/RevWordInSen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ReverseAnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/Reverse_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/SeparateEvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/ShiftZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/StringRev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/String_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/SumFilterArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/SunnyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/practice_questions/palindrome_number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_1/QuestionService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_1/Questions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_2/StudentManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/project_3/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/regex/Regex_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/regex/Regex_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/regex/Regex_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/FindDistinct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/MaxNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/OccurencesOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/RemoveDupliChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/SquareList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/SquareRoot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/streams/Stream_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/CountChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/CountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/DivideStringEqualParts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/DuplicateChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/IQ1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/IQ2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/IQ3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/LeetCode_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/PWCQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/PositionOfCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/ReplaceWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/RevSentenceInterviewQuest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/SeparaetNumberString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/StringRev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/String_L1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/String_L2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/String_L3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/VowelsConso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/VowelsConso1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/string/lengthOfLastWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/swing/FirstSwingProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/swing/Test_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/swing/Test_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/tricky/Problem_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/Inheritance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/Inheritance1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/MainAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/MainAccount.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some changes in exception folder">
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -392,13 +99,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreadPool_1">
+  <component name="RunManager" selected="Application.CustomException_1">
     <configuration name="CustomException_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.CustomException_1" />
+      <option name="MAIN_CLASS_NAME" value="exception_handling.custom.CustomException_1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="exception_handling.custom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,7 +118,7 @@
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="exception_handling.custom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,8 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPool_1" />
         <item itemvalue="Application.CustomException_1" />
+        <item itemvalue="Application.ThreadPool_1" />
         <item itemvalue="Application.Exception_2" />
         <item itemvalue="Application.MainAccount" />
         <item itemvalue="Application.RemoveLeadingZeros" />
@@ -525,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744133913354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Threading">
+      <option name="closed" value="true" />
+      <created>1745690598544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745690598544</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some changes in exception folder">
+      <option name="closed" value="true" />
+      <created>1745691226139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745691226139</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +264,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java" />
+    <MESSAGE value="Threading" />
+    <MESSAGE value="some changes in exception folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes in exception folder" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

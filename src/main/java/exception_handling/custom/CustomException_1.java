@@ -10,7 +10,7 @@ public class CustomException_1 {
         }
         catch(MyCustomException e)
         {
-            System.out.println("Caught Exceptiom : "+e.getMessage());
+            System.out.println("Caught Exception : "+e.getMessage());
         }
     }
 
