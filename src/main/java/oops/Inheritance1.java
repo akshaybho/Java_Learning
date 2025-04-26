@@ -9,9 +9,7 @@ public class Inheritance1  {
 		n.comfort="good";
 		n.wheels=  4;
 		System.out.println(n.AC+"\n"+n.comfort+"\n"+n.wheels);
-		
-		
-		
+
 	}
 
 }

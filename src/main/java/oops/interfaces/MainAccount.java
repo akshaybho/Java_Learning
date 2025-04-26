@@ -10,8 +10,6 @@ public class MainAccount {
         myAccount.deposit(1000);
         myAccount.withdraw(500);
 
-
-
         myAccount.displayAccountInfo();
     }
 }

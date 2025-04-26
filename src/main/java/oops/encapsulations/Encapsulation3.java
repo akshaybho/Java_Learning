@@ -49,7 +49,7 @@ public class Encapsulation3 {
 		if(amount>0) {
 		if(amount<=balance) {
 			balance = balance - amount;
-			System.out.println("WIthdrawal of Amount "+amount+" Successfull");
+			System.out.println("Withdrawal of Amount "+amount+" Successfull");
 			System.out.println("Your new balance is = "+balance);
 		}
 		}
