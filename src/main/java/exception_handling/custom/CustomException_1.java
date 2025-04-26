@@ -1,4 +1,4 @@
-package exception_handling;
+package exception_handling.custom;
 
 public class CustomException_1 {
 
