@@ -23,6 +23,6 @@ public class ListOfPerfect {
     }
     public static void main(String[] args)
     {
-        listOfPerfect(1000000000);
+        listOfPerfect(100000);
     }
 }

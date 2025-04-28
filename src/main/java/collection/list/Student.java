@@ -1,4 +1,4 @@
-package collection;
+package collection.list;
 
 
 //connected to ArrayList4 program

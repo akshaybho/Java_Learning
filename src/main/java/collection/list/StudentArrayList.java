@@ -1,9 +1,9 @@
-package collection;
+package collection.list;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ArrayList4  {
+public class StudentArrayList {
 	
 	public static void main(String[] args) {
 		

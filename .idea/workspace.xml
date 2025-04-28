@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some changes in exception folder">
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/NeonNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/StudentArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ConvertArraylistToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ConvertArraylistToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/HashMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Hashmap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/Hashmap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/LinkedList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/LinkedList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/List_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/List_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ReadAndMakeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ReadAndMakeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ReverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ReverseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfPerfect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfPerfect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +85,23 @@
     "Application.FISInterview.executor": "Coverage",
     "Application.FindDistinct.executor": "Run",
     "Application.FirstSwingProgram.executor": "Run",
+    "Application.HashMap2.executor": "Run",
+    "Application.Hashmap1.executor": "Run",
     "Application.LambdaEmp.executor": "Run",
     "Application.LambdaStudent.executor": "Run",
+    "Application.LinkedList1.executor": "Run",
+    "Application.ListOfPerfect.executor": "Run",
     "Application.List_1.executor": "Run",
     "Application.ListofPalindrome.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.MainAccount.executor": "Run",
+    "Application.NeonNumber.executor": "Run",
     "Application.RegisterPage.executor": "Run",
     "Application.RemoveLeadingZeros.executor": "Run",
     "Application.RemoveOccurences.executor": "Run",
     "Application.ReplaceDupli.executor": "Run",
     "Application.RevSentenceInterviewQuest.executor": "Run",
+    "Application.SunnyNumber.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestClass.executor": "Run",
@@ -99,13 +122,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomException_1">
-    <configuration name="CustomException_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.custom.CustomException_1" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.LinkedList1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.custom.*" />
+          <option name="PATTERN" value="collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,34 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.Exception_2" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception_handling.custom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.interfaces.MainAccount" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveLeadingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.RemoveLeadingZeros" />
+    <configuration name="ListOfPerfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.ListOfPerfect" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
@@ -152,12 +149,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPool_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.threadpool.ThreadPool_1" />
+    <configuration name="NeonNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.NeonNumber" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.threadpool.*" />
+          <option name="PATTERN" value="practice_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SunnyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.SunnyNumber" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomException_1" />
-        <item itemvalue="Application.ThreadPool_1" />
-        <item itemvalue="Application.Exception_2" />
-        <item itemvalue="Application.MainAccount" />
-        <item itemvalue="Application.RemoveLeadingZeros" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ListOfPerfect" />
+        <item itemvalue="Application.NeonNumber" />
+        <item itemvalue="Application.SunnyNumber" />
+        <item itemvalue="Application.LinkedList1" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745691226139</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1745691371876</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745691371876</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,7 +297,8 @@
     <MESSAGE value="Java" />
     <MESSAGE value="Threading" />
     <MESSAGE value="some changes in exception folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes in exception folder" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
