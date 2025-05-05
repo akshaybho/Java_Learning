@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/NeonNumber.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some change">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/FibonacciRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/RecFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/RecursionNatSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayList4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/StudentArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ArrayListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ConvertArraylistToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ConvertArraylistToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/HashMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashMap2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/Hashmap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Hashmap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/Hashmap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/LinkedList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/LinkedList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/List_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/List_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ReadAndMakeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ReadAndMakeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/ReverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ReverseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfPerfect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ListOfPerfect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +67,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AvgArray (1).executor": "Run",
+    "Application.AvgArray.executor": "Run",
+    "Application.Calendar_1.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.Constructor_1 (1).executor": "Run",
+    "Application.Constructor_1.executor": "Run",
+    "Application.Constructor_2 (1).executor": "Run",
+    "Application.Constructor_2.executor": "Run",
+    "Application.Constructor_4.executor": "Run",
     "Application.ConvertArraylistToArray.executor": "Run",
     "Application.CustomException_1.executor": "Run",
     "Application.DaemonThreads_1.executor": "Run",
@@ -83,6 +84,8 @@
     "Application.Encapsulation3.executor": "Run",
     "Application.Exception_2.executor": "Run",
     "Application.FISInterview.executor": "Coverage",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FibonacciRec.executor": "Run",
     "Application.FindDistinct.executor": "Run",
     "Application.FirstSwingProgram.executor": "Run",
     "Application.HashMap2.executor": "Run",
@@ -94,8 +97,12 @@
     "Application.List_1.executor": "Run",
     "Application.ListofPalindrome.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MainAccount.executor": "Run",
     "Application.NeonNumber.executor": "Run",
+    "Application.RecFactorial.executor": "Run",
+    "Application.RecursionNatSum.executor": "Run",
+    "Application.Recursion_1.executor": "Run",
     "Application.RegisterPage.executor": "Run",
     "Application.RemoveLeadingZeros.executor": "Run",
     "Application.RemoveOccurences.executor": "Run",
@@ -122,13 +129,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.LinkedList1" />
+  <component name="RunManager" selected="Application.FibonacciRec">
+    <configuration name="Encapsulation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.encapsulations.Encapsulation2" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="oops.encapsulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfPerfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.ListOfPerfect" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.Fibonacci" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
@@ -149,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NeonNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.NeonNumber" />
+    <configuration name="FibonacciRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.FibonacciRec" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SunnyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.SunnyNumber" />
+    <configuration name="MainAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.interfaces.MainAccount" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="oops.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
+    <configuration name="RecFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.RecFactorial" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeNew.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ListOfPerfect" />
-        <item itemvalue="Application.NeonNumber" />
-        <item itemvalue="Application.SunnyNumber" />
-        <item itemvalue="Application.LinkedList1" />
+        <item itemvalue="Application.FibonacciRec" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.RecFactorial" />
+        <item itemvalue="Application.MainAccount" />
+        <item itemvalue="Application.Encapsulation2" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745691371876</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="some change">
+      <option name="closed" value="true" />
+      <created>1745842067922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745842067922</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +313,8 @@
     <MESSAGE value="Threading" />
     <MESSAGE value="some changes in exception folder" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="some change" />
+    <option name="LAST_COMMIT_MESSAGE" value="some change" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
