@@ -64,7 +64,7 @@ public class Encapsulation3 {
          System.out.println(f.getBalance());
          System.out.println("------------------------------------------------");
          
-         f.withdraw(12500);
+         f.withdraw(10000);
 	}
       
 	

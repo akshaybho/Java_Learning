@@ -6,7 +6,7 @@ public class CustomException_1 {
 
         try
         {
-            checkAge(15);
+            checkAge(19);
         }
         catch(MyCustomException e)
         {

@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="some change">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/FibonacciRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/RecFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/RecursionNatSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="recursion">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/SortMatrixCol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/TransposeRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/TransposeSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/DescArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/LengthDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,7 @@
     "Application.CustomException_1.executor": "Run",
     "Application.DaemonThreads_1.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.DescArray.executor": "Run",
     "Application.Encapsulation2.executor": "Run",
     "Application.Encapsulation3.executor": "Run",
     "Application.Exception_2.executor": "Run",
@@ -92,6 +93,7 @@
     "Application.Hashmap1.executor": "Run",
     "Application.LambdaEmp.executor": "Run",
     "Application.LambdaStudent.executor": "Run",
+    "Application.LengthDesc.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.ListOfPerfect.executor": "Run",
     "Application.List_1.executor": "Run",
@@ -99,6 +101,7 @@
     "Application.LongestSubstring.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainAccount.executor": "Run",
+    "Application.MainStudent.executor": "Run",
     "Application.NeonNumber.executor": "Run",
     "Application.RecFactorial.executor": "Run",
     "Application.RecursionNatSum.executor": "Run",
@@ -108,6 +111,7 @@
     "Application.RemoveOccurences.executor": "Run",
     "Application.ReplaceDupli.executor": "Run",
     "Application.RevSentenceInterviewQuest.executor": "Run",
+    "Application.SortMatrixCol.executor": "Run",
     "Application.SunnyNumber.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test.executor": "Run",
@@ -116,6 +120,8 @@
     "Application.Test_2.executor": "Run",
     "Application.Test_3.executor": "Run",
     "Application.ThreadPool_1.executor": "Run",
+    "Application.TransposeRect.executor": "Run",
+    "Application.TransposeSquare.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,13 +135,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FibonacciRec">
-    <configuration name="Encapsulation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.encapsulations.Encapsulation2" />
+  <component name="RunManager" selected="Application.TransposeRect">
+    <configuration name="DescArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.comparator.DescArray" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.encapsulations.*" />
+          <option name="PATTERN" value="collection.comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.Fibonacci" />
+    <configuration name="LengthDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.comparator.LengthDesc" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="collection.comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.FibonacciRec" />
+    <configuration name="SortMatrixCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SortMatrixCol" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.interfaces.MainAccount" />
+    <configuration name="TransposeRect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.TransposeRect" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.interfaces.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.RecFactorial" />
+    <configuration name="TransposeSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.TransposeSquare" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibonacciRec" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.RecFactorial" />
-        <item itemvalue="Application.MainAccount" />
-        <item itemvalue="Application.Encapsulation2" />
+        <item itemvalue="Application.TransposeRect" />
+        <item itemvalue="Application.TransposeSquare" />
+        <item itemvalue="Application.SortMatrixCol" />
+        <item itemvalue="Application.LengthDesc" />
+        <item itemvalue="Application.DescArray" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745842067922</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1746442214738</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746442214738</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,7 +328,8 @@
     <MESSAGE value="some changes in exception folder" />
     <MESSAGE value="some changes" />
     <MESSAGE value="some change" />
-    <option name="LAST_COMMIT_MESSAGE" value="some change" />
+    <MESSAGE value="recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
