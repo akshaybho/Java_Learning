@@ -1,7 +1,5 @@
 package multithreading;
 
-import fileHandling.WritingFile;
-
 public class Threading_1{
 
     //turned to be true when user entered

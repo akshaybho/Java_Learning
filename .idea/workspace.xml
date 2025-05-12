@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="matrix and comparator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/stack/StackClass_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/stack/StackClass_LinkedList.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="stack using linkedlist and arraylist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/TraceOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/priority/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/priority/myThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/Threading_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Threading_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/Reverse_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Reverse_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/FibonacciRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/recursion/FibonacciRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/RecFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/recursion/RecFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/RecursionNatSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/recursion/RecursionNatSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/recursion/Recursion_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dsa/recursion/Recursion_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,17 +106,21 @@
     "Application.MainAccount.executor": "Run",
     "Application.MainStudent.executor": "Run",
     "Application.NeonNumber.executor": "Run",
+    "Application.PracticeNew.Test.executor": "Run",
     "Application.RecFactorial.executor": "Run",
     "Application.RecursionNatSum.executor": "Run",
     "Application.Recursion_1.executor": "Run",
+    "Application.Recursion_2.executor": "Run",
     "Application.RegisterPage.executor": "Run",
     "Application.RemoveLeadingZeros.executor": "Run",
     "Application.RemoveOccurences.executor": "Run",
     "Application.ReplaceDupli.executor": "Run",
     "Application.ResultSetDemo.executor": "Run",
     "Application.RevSentenceInterviewQuest.executor": "Run",
+    "Application.Reverse_Number.executor": "Run",
     "Application.SortMatrixCol.executor": "Run",
     "Application.StackClass_ArrayList (1).executor": "Run",
+    "Application.StackClass_ArrayList (2).executor": "Run",
     "Application.StackClass_ArrayList.executor": "Run",
     "Application.StackClass_LinkedList.executor": "Run",
     "Application.SunnyNumber.executor": "Run",
@@ -118,6 +131,7 @@
     "Application.Test_2.executor": "Run",
     "Application.Test_3.executor": "Run",
     "Application.ThreadPool_1.executor": "Run",
+    "Application.TraceOfMatrix.executor": "Run",
     "Application.TransposeRect.executor": "Run",
     "Application.TransposeSquare.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -133,13 +147,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StackClass_ArrayList (2)">
-    <configuration name="ResultSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC.ResultSetDemo" />
+  <component name="RunManager" selected="Application.TraceOfMatrix">
+    <configuration name="DaemonThreads_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.DaemonThreads_1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBC.*" />
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClass_ArrayList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
+    <configuration name="PracticeNew.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.stack.*" />
+          <option name="PATTERN" value="PracticeNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClass_ArrayList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.priority.Test" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.stack.*" />
+          <option name="PATTERN" value="multithreading.priority.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClass_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
+    <configuration name="ThreadPool_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.threadpool.ThreadPool_1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.stack.*" />
+          <option name="PATTERN" value="multithreading.threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClass_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_LinkedList" />
+    <configuration name="TraceOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.TraceOfMatrix" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.stack.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackClass_ArrayList (2)" />
-        <item itemvalue="Application.StackClass_ArrayList" />
-        <item itemvalue="Application.StackClass_ArrayList (1)" />
-        <item itemvalue="Application.StackClass_LinkedList" />
-        <item itemvalue="Application.ResultSetDemo" />
+        <item itemvalue="Application.TraceOfMatrix" />
+        <item itemvalue="Application.PracticeNew.Test" />
+        <item itemvalue="Application.ThreadPool_1" />
+        <item itemvalue="Application.DaemonThreads_1" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746948077754</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="stack using linkedlist and arraylist">
+      <option name="closed" value="true" />
+      <created>1747031360736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747031360736</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +358,8 @@
     <MESSAGE value="some change" />
     <MESSAGE value="recursion" />
     <MESSAGE value="matrix and comparator" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrix and comparator" />
+    <MESSAGE value="stack using linkedlist and arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack using linkedlist and arraylist" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

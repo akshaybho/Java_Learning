@@ -1,4 +1,4 @@
-package recursion;
+package dsa.recursion;
 
 public class Recursion_1 {
 
