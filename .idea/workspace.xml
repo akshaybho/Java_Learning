@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="recursion">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/SortMatrixCol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/TransposeRect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/TransposeSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/DescArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/LengthDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/MainStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/Student.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="matrix and comparator">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/stack/StackClass_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/stack/StackClass_LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception_handling/custom/CustomException_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/encapsulations/Encapsulation3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +84,7 @@
     "Application.FirstSwingProgram.executor": "Run",
     "Application.HashMap2.executor": "Run",
     "Application.Hashmap1.executor": "Run",
+    "Application.InsertDynamic.executor": "Run",
     "Application.LambdaEmp.executor": "Run",
     "Application.LambdaStudent.executor": "Run",
     "Application.LengthDesc.executor": "Run",
@@ -110,8 +104,12 @@
     "Application.RemoveLeadingZeros.executor": "Run",
     "Application.RemoveOccurences.executor": "Run",
     "Application.ReplaceDupli.executor": "Run",
+    "Application.ResultSetDemo.executor": "Run",
     "Application.RevSentenceInterviewQuest.executor": "Run",
     "Application.SortMatrixCol.executor": "Run",
+    "Application.StackClass_ArrayList (1).executor": "Run",
+    "Application.StackClass_ArrayList.executor": "Run",
+    "Application.StackClass_LinkedList.executor": "Run",
     "Application.SunnyNumber.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test.executor": "Run",
@@ -135,13 +133,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TransposeRect">
-    <configuration name="DescArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.comparator.DescArray" />
+  <component name="RunManager" selected="Application.StackClass_ArrayList (2)">
+    <configuration name="ResultSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.ResultSetDemo" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.comparator.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.comparator.LengthDesc" />
+    <configuration name="StackClass_ArrayList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.comparator.*" />
+          <option name="PATTERN" value="dsa.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMatrixCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.SortMatrixCol" />
+    <configuration name="StackClass_ArrayList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="dsa.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeRect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.TransposeRect" />
+    <configuration name="StackClass_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_ArrayList" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="dsa.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.TransposeSquare" />
+    <configuration name="StackClass_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.stack.StackClass_LinkedList" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="dsa.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransposeRect" />
-        <item itemvalue="Application.TransposeSquare" />
-        <item itemvalue="Application.SortMatrixCol" />
-        <item itemvalue="Application.LengthDesc" />
-        <item itemvalue="Application.DescArray" />
+        <item itemvalue="Application.StackClass_ArrayList (2)" />
+        <item itemvalue="Application.StackClass_ArrayList" />
+        <item itemvalue="Application.StackClass_ArrayList (1)" />
+        <item itemvalue="Application.StackClass_LinkedList" />
+        <item itemvalue="Application.ResultSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746442214738</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="matrix and comparator">
+      <option name="closed" value="true" />
+      <created>1746948077754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746948077754</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +335,8 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="some change" />
     <MESSAGE value="recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
+    <MESSAGE value="matrix and comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="matrix and comparator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
