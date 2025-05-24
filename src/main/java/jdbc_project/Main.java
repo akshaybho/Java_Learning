@@ -18,8 +18,8 @@ public class Main {
                     PreparedStatement ps = con.prepareStatement(sql_query);
             ) {
 
-                ps.setInt(1, 112);
-                ps.setString(2, "Akshat");
+                ps.setInt(1, 113);
+                ps.setString(2, "Aksh");
                 ps.setInt(3, 70);
                 ps.setString(4, "C");
                 ps.setString(5, "Banglore");

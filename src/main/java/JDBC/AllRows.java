@@ -23,18 +23,18 @@ public class AllRows {
             ResultSetMetaData metaData = result.getMetaData();
             int coloumnCount = metaData.getColumnCount();
 
-            for(int i=1; i<coloumnCount; i++)
+            for(int i=1; i<=coloumnCount; i++)
             {
-                System.out.println(metaData.getColumnName(i)+"\t");
+                System.out.print(metaData.getColumnName(i)+"\t");
             }
             System.out.println();
 
             //print all rows
             while(result.next())
             {
-                for(int i=1; i<coloumnCount; i++)
+                for(int i=1; i<=coloumnCount; i++)
                 {
-                    System.out.println(result.getString(i)+"\t");
+                    System.out.print(result.getString(i)+"\t");
                 }
                 System.out.println();
             }
