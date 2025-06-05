@@ -22,7 +22,7 @@ public class KthLagest {
 	}public static void main(String[] args) {
 		
 		KthLagest b = new KthLagest();
-		int []c = {2,4,23,14,35,6,8,9};
+		int []c = {3,2,3,1,2,4,5,5,6};
 		b.large(c);
 	}
 }
