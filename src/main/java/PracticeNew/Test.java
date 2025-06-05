@@ -1,17 +1,35 @@
 package PracticeNew;
 
-public class Test  {
+import java.util.Scanner;
 
-   public static void replaceChar(String s)
-   {
-       String regex = "[^a-zA-Z0-9]";
-      String cleanedString = s.replaceAll(regex, "");
-       System.out.println(cleanedString);
-   }
+public class Test {
 
     public static void main(String[] args) {
 
-       replaceChar("a@ksh#y12");
+
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a Number upto which you required prime numbers");
+        int n = sc.nextInt();
+        int start = 1;
+        for (int i = 2; i <= n; i++) {
+            int count = 0;
+
+
+            if(start<=i && i%start == 0)
+            {
+                count++;
+                start ++;
+            }
+
+
+            if (count == 2) {
+
+                System.out.print(i + " ");
+
+            }
+
+        }
     }
 }
 
