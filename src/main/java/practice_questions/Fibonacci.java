@@ -5,7 +5,7 @@ public class Fibonacci {
         int sum = 0;
         int temp = 1;
         System.out.print(sum+" "+temp+" ");
-        for(int i=0;i<10;i++){
+        for(int i=0;i<n;i++){
             int b = sum + temp;
             sum = temp;
             temp = b;
@@ -16,6 +16,6 @@ public class Fibonacci {
 
     public static void main(String[] args) {
         Fibonacci f = new Fibonacci();
-        f.fibo(0);
+        f.fibo(3);
     }
 }
