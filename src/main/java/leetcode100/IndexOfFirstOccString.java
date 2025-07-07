@@ -1,6 +1,6 @@
-package string;
+package leetcode100;
 
-public class LeetCode_1 {
+public class IndexOfFirstOccString {
 
     public int strStr(String haystack, String needle)
     {
@@ -9,7 +9,7 @@ public class LeetCode_1 {
 
     public static void main(String[] args) {
 
-        LeetCode_1 l = new LeetCode_1();
+        IndexOfFirstOccString l = new IndexOfFirstOccString();
         String haystack = "sadbutsad";
         String needle = "sad";
 

@@ -6,7 +6,7 @@ public class ReversePolishNotation {
 
     public static void main(String[] args) {
 
-        String []a = {"4", "13", "5", "/", "+"};
+        String []a = {"10","6","9","3","+","-11","*","/","*","17","+","5","+"};
 
         int result = evalRPN(a);
 
@@ -32,16 +32,16 @@ public class ReversePolishNotation {
 
                 switch(t)
                 {
-                    case "+": stack.push(String.valueOf(a+b));
+                    case "+": stack.push(String.valueOf(b+a));
                     break;
 
-                    case "-": stack.push(String.valueOf(a-b));
+                    case "-": stack.push(String.valueOf(b-a));
                     break;
 
-                    case "*": stack.push(String.valueOf(a*b));
+                    case "*": stack.push(String.valueOf(b*a));
                     break;
 
-                    case "/": stack.push(String.valueOf(a/b));
+                    case "/": stack.push(String.valueOf(b/a));
                     break;
                 }
             }

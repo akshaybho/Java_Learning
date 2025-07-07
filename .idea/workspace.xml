@@ -4,18 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="uniqueWords">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/callableStatement/Callable_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/callableStatement/Callable_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/callableStatement/Callable_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/callableStatement/DriverManagerBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashTable_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/DaemonThread_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronization/TrainReservation.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new update_9">
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/Isomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/RotateArrayRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/CounterSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Unsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/optional/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/GSLabIQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/IQ_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDBC/AllRows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBC/AllRows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc_project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jdbc_project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode100/ReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode100/ReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/LeetCode_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode100/IndexOfFirstOccString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,114 +74,169 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllRows.executor": "Run",
-    "Application.AvgArray (1).executor": "Run",
-    "Application.AvgArray.executor": "Run",
-    "Application.Calendar_1.executor": "Run",
-    "Application.Callable_1.executor": "Run",
-    "Application.Callable_2.executor": "Run",
-    "Application.Callable_3.executor": "Run",
-    "Application.CompoundInterest.executor": "Run",
-    "Application.Constructor_1 (1).executor": "Run",
-    "Application.Constructor_1.executor": "Run",
-    "Application.Constructor_2 (1).executor": "Run",
-    "Application.Constructor_2.executor": "Run",
-    "Application.Constructor_4.executor": "Run",
-    "Application.ConvertArraylistToArray.executor": "Run",
-    "Application.CustomException_1.executor": "Run",
-    "Application.DaemonThread_2.executor": "Run",
-    "Application.DaemonThreads_1.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DescArray.executor": "Run",
-    "Application.DynamicSQLQueries.executor": "Run",
-    "Application.Encapsulation2.executor": "Run",
-    "Application.Encapsulation3.executor": "Run",
-    "Application.Exception_2.executor": "Run",
-    "Application.FISInterview.executor": "Coverage",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FibonacciRec.executor": "Run",
-    "Application.FindDistinct.executor": "Run",
-    "Application.FirstSwingProgram.executor": "Run",
-    "Application.HashMap2.executor": "Run",
-    "Application.HashTable_1.executor": "Run",
-    "Application.Hashmap1.executor": "Run",
-    "Application.IQ1.executor": "Run",
-    "Application.IQ2.executor": "Run",
-    "Application.InsertDynamic.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.LambdaEmp.executor": "Run",
-    "Application.LambdaStudent.executor": "Run",
-    "Application.LengthDesc.executor": "Run",
-    "Application.LinkedList1.executor": "Run",
-    "Application.ListOfPerfect.executor": "Run",
-    "Application.List_1.executor": "Run",
-    "Application.ListofPalindrome.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainAccount.executor": "Run",
-    "Application.MainStudent.executor": "Run",
-    "Application.NeonNumber.executor": "Run",
-    "Application.PracticeNew.Test.executor": "Run",
-    "Application.RecFactorial.executor": "Run",
-    "Application.RecursionNatSum.executor": "Run",
-    "Application.Recursion_1.executor": "Run",
-    "Application.Recursion_2.executor": "Run",
-    "Application.RegisterPage.executor": "Run",
-    "Application.RemoveLeadingZeros.executor": "Run",
-    "Application.RemoveOccurences.executor": "Run",
-    "Application.ReplaceDupli.executor": "Run",
-    "Application.ResultSetDemo.executor": "Run",
-    "Application.RevSentenceInterviewQuest.executor": "Run",
-    "Application.Reverse_Number.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.SortMatrixCol.executor": "Run",
-    "Application.Special.executor": "Run",
-    "Application.StackClass_ArrayList (1).executor": "Run",
-    "Application.StackClass_ArrayList (2).executor": "Run",
-    "Application.StackClass_ArrayList.executor": "Run",
-    "Application.StackClass_LinkedList.executor": "Run",
-    "Application.String_L2.executor": "Run",
-    "Application.SunnyNumber.executor": "Run",
-    "Application.Test (1).executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestClass.executor": "Run",
-    "Application.Test_1.executor": "Run",
-    "Application.Test_2.executor": "Run",
-    "Application.Test_3.executor": "Run",
-    "Application.ThreadPool_1.executor": "Run",
-    "Application.TraceOfMatrix.executor": "Run",
-    "Application.TrainReservation (1).executor": "Run",
-    "Application.TrainReservation (2).executor": "Run",
-    "Application.TrainReservation (3).executor": "Run",
-    "Application.TrainReservation (4).executor": "Run",
-    "Application.TrainReservation (5).executor": "Run",
-    "Application.TrainReservation.executor": "Run",
-    "Application.TransposeRect.executor": "Run",
-    "Application.TransposeSquare.executor": "Run",
-    "Application.UniqueWordInList.executor": "Run",
-    "Application.autoboxing.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ak/Appium",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Apti_LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayFormInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgArray (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlobOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calendar_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConnectionPooling_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertArraylistToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWordsInFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThread_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThreads_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleTheOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicatesInLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicSQLQueries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FISInterview.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstSwingProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GSLabIQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTable_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hashmap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertDynamic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Isomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLagest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaEmp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthDesc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfEmployees.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfPerfect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListofPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MasterCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumber_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProductArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAmountWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NeonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurencesOfLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurencesOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PetersonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeNew.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductArrayExc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingFile.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReadingPdf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursionNatSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegisterPage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveLeadingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceDupli.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSet_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSet_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevSentenceInterviewQuest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePolishNotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayLeft.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Safe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortMatrixCol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Special.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_8 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_L2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SunnyNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPool_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraceOfMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transaction_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeRect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueWordInList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unsafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaterBottles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WritingFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.autoboxing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.optional.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ak/BookStore&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Callable_3">
-    <configuration name="Callable_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC.callableStatement.Callable_1" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JDBC.batchUpdations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="GSLabIQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.GSLabIQ" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBC.callableStatement.*" />
+          <option name="PATTERN" value="leetcode100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Callable_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC.callableStatement.Callable_2" />
+    <configuration name="ListOfEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.tricky_1.ListOfEmployees" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBC.callableStatement.*" />
+          <option name="PATTERN" value="streams.tricky_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Callable_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC.callableStatement.Callable_3" />
+    <configuration name="ReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode100.ReversePolishNotation" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBC.callableStatement.*" />
+          <option name="PATTERN" value="leetcode100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,25 +270,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTable_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Map.HashTable_1" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrainReservation (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.synchronization.TrainReservation" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.synchronization.*" />
+          <option name="PATTERN" value="PracticeNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Callable_3" />
-        <item itemvalue="Application.Callable_2" />
-        <item itemvalue="Application.Callable_1" />
-        <item itemvalue="Application.HashTable_1" />
-        <item itemvalue="Application.TrainReservation (3)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ReversePolishNotation" />
+        <item itemvalue="Application.GSLabIQ" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ListOfEmployees" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +453,95 @@
       <option name="project" value="LOCAL" />
       <updated>1748007990529</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="jdbcupdated">
+      <option name="closed" value="true" />
+      <created>1748078154158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748078154158</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new update">
+      <option name="closed" value="true" />
+      <created>1748159872771</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748159872771</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new update_1">
+      <option name="closed" value="true" />
+      <created>1748272895022</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748272895022</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new update_2">
+      <option name="closed" value="true" />
+      <created>1748434659029</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1748434659029</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new update_3">
+      <option name="closed" value="true" />
+      <created>1748439458377</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1748439458377</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new update_4">
+      <option name="closed" value="true" />
+      <created>1748445504847</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1748445504847</updated>
+    </task>
+    <task id="LOCAL-00025" summary="new update_5">
+      <option name="closed" value="true" />
+      <created>1748891270266</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1748891270266</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new update_6">
+      <option name="closed" value="true" />
+      <created>1749092584375</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1749092584375</updated>
+    </task>
+    <task id="LOCAL-00027" summary="new update_7">
+      <option name="closed" value="true" />
+      <created>1749096599166</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1749096599166</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new update_8">
+      <option name="closed" value="true" />
+      <created>1749907827989</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1749907827989</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new update_9">
+      <option name="closed" value="true" />
+      <created>1750668498732</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1750668498732</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +569,18 @@
     <MESSAGE value="new jdbc1" />
     <MESSAGE value="new jdbc2" />
     <MESSAGE value="uniqueWords" />
-    <option name="LAST_COMMIT_MESSAGE" value="uniqueWords" />
+    <MESSAGE value="jdbcupdated" />
+    <MESSAGE value="new update" />
+    <MESSAGE value="new update_1" />
+    <MESSAGE value="new update_2" />
+    <MESSAGE value="new update_3" />
+    <MESSAGE value="new update_4" />
+    <MESSAGE value="new update_5" />
+    <MESSAGE value="new update_6" />
+    <MESSAGE value="new update_7" />
+    <MESSAGE value="new update_8" />
+    <MESSAGE value="new update_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update_9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
