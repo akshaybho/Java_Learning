@@ -1,4 +1,4 @@
-package practice_questions;
+package leetcode.miscellaneous;
 
 public class WaterBottles {
 
