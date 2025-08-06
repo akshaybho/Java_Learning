@@ -14,6 +14,7 @@ public class LongestSubstring {
 
         List<Character> list = new ArrayList<>();
 
+
         while(end<s.length())
         {
             if(!list.contains(s.charAt(end)))
