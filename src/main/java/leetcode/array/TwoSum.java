@@ -1,4 +1,4 @@
-package practice_questions;
+package leetcode.array;
 
 public class TwoSum {
     int sum;

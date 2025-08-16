@@ -40,6 +40,6 @@ public class ArrayFormInteger {
 
     public static void main(String[] args) {
 
-        getArray(new int[]{2,1,5}, 806);
+        getArray(new int[]{2,1,5}, 1023);
     }
 }

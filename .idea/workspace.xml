@@ -4,26 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new update_9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/Isomorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode100/RotateArrayRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/CounterSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Safe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchronizedkeyword/Unsafe.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new update_13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewTricky/TestHashEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/set/hashset/UnionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/signleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/signleton/MySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/NormalDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/SportsDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/strategy/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/stack/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/NumbersSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/volatileKeyword/Number_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/volatileKeyword/SharedObj.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/optional/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/GSLabIQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/IQ_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/TaoDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/OddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StreamFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/Test_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tricky/AddElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tricky/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tricky/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tricky/Test_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode100/ReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode100/ReversePolishNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/LeetCode_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode100/IndexOfFirstOccString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ArrayFormInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ArrayFormInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/RemoveDupliChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveDupliChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -77,8 +93,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AllRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Altimetric_IQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
     &quot;Application.Apti_LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrangeNames.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayFormInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.AvgArray (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.AvgArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankApp.executor&quot;: &quot;Run&quot;,
@@ -88,12 +108,14 @@
     &quot;Application.Callable_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Callable_3.executor&quot;: &quot;Run&quot;,
     &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompressString.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConnectionPooling_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor_1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor_2 (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinuosSubArraySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConvertArraylistToArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountWordsInFile.executor&quot;: &quot;Run&quot;,
     &quot;Application.CustomException_1.executor&quot;: &quot;Run&quot;,
@@ -111,24 +133,35 @@
     &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibonacciRec.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstSwingProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.GSLabIQ.executor&quot;: &quot;Run&quot;,
     &quot;Application.GetImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashMap2.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashTable_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Hashmap1.executor&quot;: &quot;Run&quot;,
     &quot;Application.IQ1.executor&quot;: &quot;Run&quot;,
     &quot;Application.IQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQStream.executor&quot;: &quot;Run&quot;,
     &quot;Application.IQ_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfFirstOccString.executor&quot;: &quot;Run&quot;,
     &quot;Application.InsertDynamic.executor&quot;: &quot;Run&quot;,
     &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.Isomorphic.executor&quot;: &quot;Run&quot;,
     &quot;Application.KthLagest.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaEmp.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaThread (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaThread.executor&quot;: &quot;Run&quot;,
     &quot;Application.LengthDesc.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_3.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListOfEmployees.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListOfPerfect.executor&quot;: &quot;Run&quot;,
     &quot;Application.List_1.executor&quot;: &quot;Run&quot;,
@@ -138,15 +171,23 @@
     &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainEmployee.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainStudent.executor&quot;: &quot;Run&quot;,
     &quot;Application.MasterCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAvg.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxNumber_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxProductArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaximumAmountWater.executor&quot;: &quot;Run&quot;,
     &quot;Application.NeonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersSystem.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurencesOfLetters.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurencesOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parallel.executor&quot;: &quot;Run&quot;,
     &quot;Application.PetersonNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.PracticeNew.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
@@ -158,6 +199,8 @@
     &quot;Application.Recursion_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Recursion_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.RegisterPage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDupliChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveLeadingZeros.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveOccurences.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReplaceDupli.executor&quot;: &quot;Run&quot;,
@@ -165,6 +208,7 @@
     &quot;Application.ResultSet_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ResultSet_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.RevSentenceInterviewQuest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevWordInSen.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReversePolishNotation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
@@ -174,24 +218,34 @@
     &quot;Application.Safe.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SharedObj.executor&quot;: &quot;Run&quot;,
     &quot;Application.SortMatrixCol.executor&quot;: &quot;Run&quot;,
     &quot;Application.Special.executor&quot;: &quot;Run&quot;,
     &quot;Application.StackClass_ArrayList (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.StackClass_ArrayList (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.StackClass_ArrayList.executor&quot;: &quot;Run&quot;,
     &quot;Application.StackClass_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamFunctions.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stream_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stream_4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stream_6.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stream_8 (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Stream_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_9.executor&quot;: &quot;Run&quot;,
     &quot;Application.String_L2.executor&quot;: &quot;Run&quot;,
     &quot;Application.SunnyNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaoDigital.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_16.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_3.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadPool_1.executor&quot;: &quot;Run&quot;,
@@ -206,19 +260,24 @@
     &quot;Application.TransposeRect.executor&quot;: &quot;Run&quot;,
     &quot;Application.TransposeSquare.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnionArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.UniqueWordInList.executor&quot;: &quot;Run&quot;,
     &quot;Application.Unsafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParenthesis.executor&quot;: &quot;Run&quot;,
     &quot;Application.WaterBottles.executor&quot;: &quot;Run&quot;,
     &quot;Application.WritingFile.executor&quot;: &quot;Run&quot;,
     &quot;Application.autoboxing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.designPatterns.strategyPattern.strategy.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.optional.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Java_Learning [clean].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ak/BookStore&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ak/ElectronicStore&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -230,16 +289,15 @@
       <recent name="JDBC.batchUpdations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="GSLabIQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.GSLabIQ" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ListOfEmployees">
+    <configuration name="LambdaThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.LambdaThread" />
       <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode100.ReversePolishNotation" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.strategyPattern.signleton.Main" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode100.*" />
+          <option name="PATTERN" value="designPatterns.strategyPattern.signleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Java_Learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeNew.Test" />
+    <configuration name="StreamFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.StreamFunctions" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeNew.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,13 +341,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tricky.Test_15" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tricky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LambdaThread" />
+      <item itemvalue="Application.ListOfEmployees" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StreamFunctions" />
+      <item itemvalue="Application.Test_15" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ReversePolishNotation" />
-        <item itemvalue="Application.GSLabIQ" />
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.ListOfEmployees" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test_15" />
+        <item itemvalue="Application.LambdaThread" />
+        <item itemvalue="Application.StreamFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +612,39 @@
       <option name="project" value="LOCAL" />
       <updated>1750668498732</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="new update_10">
+      <option name="closed" value="true" />
+      <created>1751912379468</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1751912379468</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new update_11">
+      <option name="closed" value="true" />
+      <created>1751960550590</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1751960550590</updated>
+    </task>
+    <task id="LOCAL-00032" summary="new update_11">
+      <option name="closed" value="true" />
+      <created>1751960568973</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1751960568973</updated>
+    </task>
+    <task id="LOCAL-00033" summary="new update_13">
+      <option name="closed" value="true" />
+      <created>1754506658276</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1754506658276</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,9 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java" />
-    <MESSAGE value="Threading" />
-    <MESSAGE value="some changes in exception folder" />
     <MESSAGE value="some changes" />
     <MESSAGE value="some change" />
     <MESSAGE value="recursion" />
@@ -580,7 +680,11 @@
     <MESSAGE value="new update_7" />
     <MESSAGE value="new update_8" />
     <MESSAGE value="new update_9" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update_9" />
+    <MESSAGE value="new update_10" />
+    <MESSAGE value="new update_11" />
+    <MESSAGE value="new update_12" />
+    <MESSAGE value="new update_13" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update_13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
