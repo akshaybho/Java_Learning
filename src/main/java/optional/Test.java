@@ -8,8 +8,8 @@ public class Test {
 
     public static void main(String[] args) {
 
-        String name = "Akshay";
-        Optional <String> optionalName = Optional.ofNullable(null);
+        String name = null;
+        Optional <String> optionalName = Optional.ofNullable(name);
 
         String result = optionalName.orElse("Default Name");
 

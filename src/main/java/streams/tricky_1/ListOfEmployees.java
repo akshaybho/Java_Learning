@@ -57,6 +57,7 @@ public class ListOfEmployees {
         Map<Integer, String> emp = employees.stream()
                 .collect(Collectors.toMap(Employee::getId, Employee::getName));
 
+
         System.out.println("ID -> Name Map : "+emp);
     }
 
