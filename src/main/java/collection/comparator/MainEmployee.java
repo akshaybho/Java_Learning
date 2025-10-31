@@ -13,6 +13,7 @@ public class MainEmployee {
         empList.add(new Employee(34, "Onkar"));
         empList.add(new Employee(24, "Saloni"));
 
+        // Compare with ID
         empList.sort(Comparator.comparing(e->e.empId));
 
         for(Employee emp : empList)
@@ -20,6 +21,14 @@ public class MainEmployee {
             emp.displayEmpInfo();
         }
 
+        // Compare with NAME
+        System.out.println("=======================================================================");
+        empList.sort(Comparator.comparing(e -> e.empName));
+
+        for(Employee emp : empList)
+        {
+            emp.displayEmpInfo();
+        }
 
     }
 }

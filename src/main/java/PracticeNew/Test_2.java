@@ -1,9 +1,11 @@
-package tests;
+package PracticeNew;
 
-public class Test_16 {
+public class Test_2 {
 
     public static void main(String[] args) {
 
 
+        
     }
 }
+

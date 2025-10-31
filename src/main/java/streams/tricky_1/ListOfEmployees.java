@@ -3,7 +3,7 @@ package streams.tricky_1;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class ListOfEmployees {
+public class  ListOfEmployees {
 
      public static List <Employee> employees;
     public static void main(String[] args) {

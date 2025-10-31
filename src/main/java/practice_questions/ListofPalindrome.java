@@ -3,7 +3,7 @@ package practice_questions;
 public class ListofPalindrome {
     
     public void listPal() {
-        int n = 0;
+        int n;
         for (int i = 10; i < 2000; i++) {
             n = i;
 

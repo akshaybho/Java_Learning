@@ -1,4 +1,4 @@
-package PracticeNew;
+package practice_questions;
 
 public class Test {
 /*Write a program that uses ONLY JAVA Object that creates an array structure elements of

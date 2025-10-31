@@ -1,15 +1,29 @@
 package practice_questions;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class CommonEle {
 
     public void common(int []a, int[]b){
-        for(int i=0;i<a.length;i++){
-            for(int j=0;j<b.length;j++){
-                if(a[i]==b[j]){
-                    System.out.print(b[j]+" ");
-                }
+
+        List<Integer> list1 = new ArrayList<>();
+        List<Integer> list2 = new ArrayList<>();
+
+        for(int i=0; i<a.length; i++)
+        {
+            list1.add(a[i]);
+        }
+
+        for(int i=0; i<b.length; i++)
+        {
+            if(list1.contains(b[i])){
+                list2.add(b[i]);
             }
         }
+
+        System.out.println(list2);
+
     }
 
     public static void main(String[] args) {

@@ -12,7 +12,6 @@ public class LongestCommonPrefix {
         {
             return "";
         }
-
         //sort the arrays
         Arrays.sort(s);
 
