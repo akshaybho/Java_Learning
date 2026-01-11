@@ -4,66 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new update_15">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/hahsmap/Collision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/hahsmap/CollisionOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dateAndTimeApi/DateTimeFormatterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/linkedlist/LinkedList_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epamPractice/Test_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epamPractice/Test_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epamPractice/Test_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/LongestHarmoniousSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/ProductOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/FirstNonRepeatingWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/executorService/ES1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Incedo_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Incedo_Q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/SortBasedOnFreqOccurences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/functional/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/functional/PrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/incedo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/FirstNonRepeated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/MostFrequentWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/PrintDupliChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/UniqueCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/specailCases/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/specailCases/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tricky/Demo_2.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/ArrayLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/KadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/SubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/searching/FirstRepeatingInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/searching/LargestThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/BiFunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SearchInRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/ThreeSumLeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/miscellaneous/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CogniWalkIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/RemoveLeading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/TransposeOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/CogniStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/ConcatStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/DuplicateLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/EYQStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SumOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/specialCase2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/specialCase2/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/comparator/MainEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/comparator/MainEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/list/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epamPractice/Test_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epamPractice/Test_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epamPractice/Test_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/ProductOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/ProductOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/string/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ArrayInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ArrayInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/CommonEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CommonEle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ListofPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ListofPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/IQStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/IQStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/tricky_1/ListOfEmployees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/atomickeyword/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/CompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/ReplaceDupli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/ReplaceDupli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/String_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/String_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tests/Test_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Test_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tricky/Test_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +106,8 @@
     "Application.Apti_LCM.executor": "Run",
     "Application.ArrangeNames.executor": "Run",
     "Application.ArrayFormInteger.executor": "Run",
+    "Application.ArrayLeaders.executor": "Run",
+    "Application.ArrayList1.executor": "Run",
     "Application.Array_1.executor": "Run",
     "Application.AscendingArray.executor": "Run",
     "Application.AvgArray (1).executor": "Run",
@@ -130,17 +115,23 @@
     "Application.BankApp.executor": "Run",
     "Application.BankOfAmerica.executor": "Run",
     "Application.BestTimeStock.executor": "Run",
+    "Application.BiFunctionDemo.executor": "Run",
     "Application.BlobOperation.executor": "Run",
     "Application.Calendar_1.executor": "Run",
     "Application.Callable_1.executor": "Run",
     "Application.Callable_2.executor": "Run",
     "Application.Callable_3.executor": "Run",
     "Application.CheckDuplicate.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
+    "Application.CogniStream.executor": "Run",
+    "Application.CogniWalkIn.executor": "Run",
     "Application.Collision.executor": "Run",
     "Application.CollisionOverride.executor": "Run",
+    "Application.CombinationSum.executor": "Run",
     "Application.CommonEle.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
     "Application.CompressString.executor": "Run",
+    "Application.ConcatStreams.executor": "Run",
     "Application.ConnectionPooling_1.executor": "Run",
     "Application.Constructor_1 (1).executor": "Run",
     "Application.Constructor_1.executor": "Run",
@@ -150,6 +141,7 @@
     "Application.ContinuosSubArraySum.executor": "Run",
     "Application.ConvertArraylistToArray.executor": "Run",
     "Application.CountDigitOfNumber.executor": "Run",
+    "Application.CountWords.executor": "Run",
     "Application.CountWordsInFile.executor": "Run",
     "Application.CustomException_1.executor": "Run",
     "Application.DaemonThread_2.executor": "Run",
@@ -162,6 +154,7 @@
     "Application.DuplicatesInLists.executor": "Run",
     "Application.DynamicSQLQueries.executor": "Run",
     "Application.ES1.executor": "Run",
+    "Application.EYQStream.executor": "Run",
     "Application.Encapsulation2.executor": "Run",
     "Application.Encapsulation3.executor": "Run",
     "Application.Exception_2.executor": "Run",
@@ -176,9 +169,11 @@
     "Application.FirstNonRepeated.executor": "Run",
     "Application.FirstNonRepeatingChar.executor": "Run",
     "Application.FirstNonRepeatingWord.executor": "Run",
+    "Application.FirstRepeatingInArray.executor": "Run",
     "Application.FirstSwingProgram.executor": "Run",
     "Application.FlatMap.executor": "Run",
     "Application.FreqOfLetters.executor": "Run",
+    "Application.FrequencyOfChar.executor": "Run",
     "Application.GSLabIQ.executor": "Run",
     "Application.GasStation.executor": "Run",
     "Application.GetImage.executor": "Run",
@@ -199,6 +194,7 @@
     "Application.IntersectionArrays.executor": "Run",
     "Application.Isomorphic.executor": "Run",
     "Application.JumpGame.executor": "Run",
+    "Application.KadanesAlgo.executor": "Run",
     "Application.KthLagest.executor": "Run",
     "Application.KthLargest.executor": "Run",
     "Application.KthNumberInArray.executor": "Run",
@@ -206,6 +202,7 @@
     "Application.LambdaStudent.executor": "Run",
     "Application.LambdaThread (1).executor": "Run",
     "Application.LambdaThread.executor": "Run",
+    "Application.LargestThree.executor": "Run",
     "Application.LengthDesc.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.LinkedList_1.executor": "Run",
@@ -234,6 +231,7 @@
     "Application.MaxNumber_1.executor": "Run",
     "Application.MaxProductArray.executor": "Run",
     "Application.MaximumAmountWater.executor": "Run",
+    "Application.MissingNumbers.executor": "Run",
     "Application.MostFrequentWord.executor": "Run",
     "Application.NeonNumber.executor": "Run",
     "Application.Number_2.executor": "Run",
@@ -247,11 +245,14 @@
     "Application.Parallel.executor": "Run",
     "Application.PartitioningExample.executor": "Run",
     "Application.PetersonNumber.executor": "Run",
+    "Application.PlusOne.executor": "Run",
     "Application.PracticeNew.Test.executor": "Run",
+    "Application.PredicateDemo.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.PrimeChecker.executor": "Run",
     "Application.PrintDupliChar.executor": "Run",
     "Application.ProductArrayExc.executor": "Run",
+    "Application.ProductOfArray.executor": "Run",
     "Application.ReadingFile.executor": "Debug",
     "Application.ReadingPdf.executor": "Run",
     "Application.RecFactorial.executor": "Run",
@@ -262,6 +263,7 @@
     "Application.RegisterPage.executor": "Run",
     "Application.RemoveDupliChar.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveLeading.executor": "Run",
     "Application.RemoveLeadingZeros.executor": "Run",
     "Application.RemoveOccurences.executor": "Run",
     "Application.RemoveSpaces.executor": "Run",
@@ -278,11 +280,15 @@
     "Application.RotateArray.executor": "Run",
     "Application.RotateArrayLeft.executor": "Run",
     "Application.RotateArrayRight.executor": "Run",
+    "Application.RotateImage.executor": "Run",
     "Application.Safe.executor": "Run",
+    "Application.SearchInRotated.executor": "Run",
     "Application.SearchInsertPosition.executor": "Run",
     "Application.SecondDemo.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SharedObj.executor": "Run",
+    "Application.SingleNumber.executor": "Run",
     "Application.SortMatrixCol.executor": "Run",
     "Application.Special.executor": "Run",
     "Application.StackClass_ArrayList (1).executor": "Run",
@@ -296,8 +302,12 @@
     "Application.Stream_8 (1).executor": "Run",
     "Application.Stream_8.executor": "Run",
     "Application.Stream_9.executor": "Run",
+    "Application.String_4.executor": "Run",
+    "Application.String_5.executor": "Run",
     "Application.String_L2.executor": "Run",
     "Application.SubArraySum.executor": "Run",
+    "Application.SumOfCharacters.executor": "Run",
+    "Application.SumOfElements.executor": "Run",
     "Application.SunnyNumber.executor": "Run",
     "Application.TaoDigital.executor": "Run",
     "Application.Task.executor": "Run",
@@ -316,6 +326,7 @@
     "Application.Test_2.executor": "Run",
     "Application.Test_3.executor": "Run",
     "Application.ThreadPool_1.executor": "Run",
+    "Application.ThreeSumLeet.executor": "Run",
     "Application.TraceOfMatrix.executor": "Run",
     "Application.TrainReservation (1).executor": "Run",
     "Application.TrainReservation (2).executor": "Run",
@@ -324,6 +335,7 @@
     "Application.TrainReservation (5).executor": "Run",
     "Application.TrainReservation.executor": "Run",
     "Application.Transaction_1.executor": "Run",
+    "Application.TransposeOfMatrix.executor": "Run",
     "Application.TransposeRect.executor": "Run",
     "Application.TransposeSquare.executor": "Run",
     "Application.TwoSum.executor": "Run",
@@ -340,6 +352,8 @@
     "Application.incedo_2.executor": "Run",
     "Application.optional.Test.executor": "Run",
     "Application.palindrome_number.executor": "Run",
+    "Application.streams.specailCases.Main.executor": "Run",
+    "Application.streams.specialCase2.Main.executor": "Run",
     "Maven.Java_Learning [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -366,13 +380,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive">
-    <configuration name="ContinuosSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.ContinuosSubArraySum" />
+  <component name="RunManager" selected="Application.KadanesAlgo">
+    <configuration name="ArrayLeaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.ArrayLeaders" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.array.FirstMissingPositive" />
+    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.ArrayList1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.array.*" />
+          <option name="PATTERN" value="collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,12 +407,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Incedo_Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.Incedo_Q" />
+    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.KadanesAlgo" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,12 +420,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.Test_16" />
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.SecondLargest" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,12 +433,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="incedo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.incedo_2" />
+    <configuration name="SubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.SubArraySum" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,19 +447,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ContinuosSubArraySum" />
-      <item itemvalue="Application.FirstMissingPositive" />
-      <item itemvalue="Application.Incedo_Q" />
-      <item itemvalue="Application.Test_16" />
-      <item itemvalue="Application.incedo_2" />
+      <item itemvalue="Application.ArrayList1" />
+      <item itemvalue="Application.KadanesAlgo" />
+      <item itemvalue="Application.SecondLargest" />
+      <item itemvalue="Application.ArrayLeaders" />
+      <item itemvalue="Application.SubArraySum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstMissingPositive" />
-        <item itemvalue="Application.Test_16" />
-        <item itemvalue="Application.Incedo_Q" />
-        <item itemvalue="Application.incedo_2" />
-        <item itemvalue="Application.ContinuosSubArraySum" />
+        <item itemvalue="Application.KadanesAlgo" />
+        <item itemvalue="Application.ArrayList1" />
+        <item itemvalue="Application.SecondLargest" />
+        <item itemvalue="Application.ArrayLeaders" />
+        <item itemvalue="Application.SubArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -738,7 +752,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756104254979</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="new update">
+      <option name="closed" value="true" />
+      <created>1761919326566</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1761919326569</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -762,7 +784,6 @@
     <MESSAGE value="new jdbc2" />
     <MESSAGE value="uniqueWords" />
     <MESSAGE value="jdbcupdated" />
-    <MESSAGE value="new update" />
     <MESSAGE value="new update_1" />
     <MESSAGE value="new update_2" />
     <MESSAGE value="new update_3" />
@@ -778,7 +799,8 @@
     <MESSAGE value="new update_13" />
     <MESSAGE value="new update_14" />
     <MESSAGE value="new update_15" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update_15" />
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

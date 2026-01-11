@@ -20,6 +20,8 @@ public class ArrayList1 {
 			System.out.println(itr.next());
 		}
 		System.out.println(list);
+
+		System.out.println(list.get(3));
 	}
 
 }

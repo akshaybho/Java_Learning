@@ -7,7 +7,7 @@ public class CompressString {
 
     public static void main(String[] args) {
 
-        String str = "aaabbbccdddd";
+        String str = "a";
         Map <Character, Integer> map = new LinkedHashMap<>();
         for(int i=0; i<str.length();i++){
             if(map.get(str.charAt(i))!=null){

@@ -1,6 +1,6 @@
 package practice_questions;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class ReplaceDupli {
@@ -9,10 +9,10 @@ public class ReplaceDupli {
     {
         char []c = s.toCharArray();
 
-        Map<Character, Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new LinkedHashMap<>();
         for(int i=0; i<c.length; i++)
         {
-            if(map.get(c[i])!=null)
+            if(map.containsKey(c[i]))
             {
                 map.put(c[i],map.get(c[i])+1);
             }

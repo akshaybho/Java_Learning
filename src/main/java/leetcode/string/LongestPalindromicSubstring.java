@@ -42,6 +42,6 @@ public class LongestPalindromicSubstring {
         System.out.println(longestPalindrome("babad")); // bab or aba
         System.out.println(longestPalindrome("cbbd"));  // bb
         System.out.println(longestPalindrome("a"));     // a
-        System.out.println(longestPalindrome("ac"));    // a
+        System.out.println(longestPalindrome("bbbab"));    // bab
     }
 }

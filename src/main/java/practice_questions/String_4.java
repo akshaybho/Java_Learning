@@ -8,7 +8,7 @@ public class String_4 {
         for(String word : words){
            try {
                int num = Integer.parseInt(word);
-               System.out.println(word+" ");
+               System.out.println(num+" ");
            }
            catch(NumberFormatException e){
 
