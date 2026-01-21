@@ -1,4 +1,4 @@
-package GFG.searching.arryas;
+package GFG.searching.windowSliding;
 
 import java.util.ArrayList;
 import java.util.List;

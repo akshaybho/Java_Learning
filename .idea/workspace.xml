@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new gfg problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/backtrack/CombinationSumII.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="leetcode backtrack2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/LongestSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/SegregateEvenOddBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/sorting/SelectionSort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/windowSliding/LongestSubArraySumOptimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/slidingwindow/Leetcode209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/WordPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/array/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/backtrack/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/SubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/windowSliding/SubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeNew/Test_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeNew/Test_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +86,7 @@
     "Application.BestTimeStock.executor": "Run",
     "Application.BiFunctionDemo.executor": "Run",
     "Application.BlobOperation.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
     "Application.Calendar_1.executor": "Run",
     "Application.Callable_1.executor": "Run",
     "Application.Callable_2.executor": "Run",
@@ -114,6 +123,7 @@
     "Application.DescArray.executor": "Run",
     "Application.DoubleTheOdd.executor": "Run",
     "Application.DuplicatesInLists.executor": "Run",
+    "Application.DutchNationalFlag.executor": "Run",
     "Application.DynamicSQLQueries.executor": "Run",
     "Application.ES1.executor": "Run",
     "Application.EYQStream.executor": "Run",
@@ -165,6 +175,7 @@
     "Application.LambdaThread (1).executor": "Run",
     "Application.LambdaThread.executor": "Run",
     "Application.LargestThree.executor": "Run",
+    "Application.Leetcode209.executor": "Run",
     "Application.LengthDesc.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.LinkedList_1.executor": "Run",
@@ -180,6 +191,8 @@
     "Application.LongestHarmoniousSubsequence.executor": "Run",
     "Application.LongestIncreasingSubsequence.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestSubArraySum.executor": "Run",
+    "Application.LongestSubArraySumOptimal.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
@@ -248,7 +261,9 @@
     "Application.SearchInsertPosition.executor": "Run",
     "Application.SecondDemo.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.SegregateEvenOddBruteForce.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.SelectionSort_1.executor": "Run",
     "Application.SharedObj.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.SortMatrixCol.executor": "Run",
@@ -307,6 +322,7 @@
     "Application.Unsafe.executor": "Run",
     "Application.ValidParenthesis.executor": "Run",
     "Application.WaterBottles.executor": "Run",
+    "Application.WordPattern.executor": "Run",
     "Application.WritingFile.executor": "Run",
     "Application.autoboxing.Main.executor": "Run",
     "Application.designPatterns.strategyPattern.signleton.Main.executor": "Run",
@@ -342,13 +358,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CombinationSumII">
-    <configuration name="ArrayLeaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.ArrayLeaders" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.sorting.BubbleSort" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="GFG.searching.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.ArrayList1" />
+    <configuration name="LongestSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.LongestSubArraySum" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="GFG.searching.windowSliding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,12 +385,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.backtrack.CombinationSumII" />
+    <configuration name="LongestSubArraySumOptimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.windowSliding.LongestSubArraySumOptimal" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.backtrack.*" />
+          <option name="PATTERN" value="GFG.searching.windowSliding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.KadanesAlgo" />
+    <configuration name="SegregateEvenOddBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.SegregateEvenOddBruteForce" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="GFG.searching.windowSliding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,12 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.SecondLargest" />
+    <configuration name="SelectionSort_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.sorting.SelectionSort_1" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="GFG.searching.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,19 +425,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CombinationSumII" />
-      <item itemvalue="Application.ArrayList1" />
-      <item itemvalue="Application.KadanesAlgo" />
-      <item itemvalue="Application.SecondLargest" />
-      <item itemvalue="Application.ArrayLeaders" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.SelectionSort_1" />
+      <item itemvalue="Application.LongestSubArraySumOptimal" />
+      <item itemvalue="Application.LongestSubArraySum" />
+      <item itemvalue="Application.SegregateEvenOddBruteForce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CombinationSumII" />
-        <item itemvalue="Application.KadanesAlgo" />
-        <item itemvalue="Application.ArrayList1" />
-        <item itemvalue="Application.SecondLargest" />
-        <item itemvalue="Application.ArrayLeaders" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort_1" />
+        <item itemvalue="Application.LongestSubArraySumOptimal" />
+        <item itemvalue="Application.SegregateEvenOddBruteForce" />
+        <item itemvalue="Application.LongestSubArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -730,7 +746,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768102621738</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="leetcode backtrack2">
+      <option name="closed" value="true" />
+      <created>1768210800943</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1768210800943</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -745,7 +769,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="matrix and comparator" />
     <MESSAGE value="stack using linkedlist and arraylist" />
     <MESSAGE value="new" />
     <MESSAGE value="new jdbc" />
@@ -770,7 +793,8 @@
     <MESSAGE value="new update_15" />
     <MESSAGE value="new update" />
     <MESSAGE value="new gfg problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new gfg problems" />
+    <MESSAGE value="leetcode backtrack2" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode backtrack2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
