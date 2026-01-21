@@ -1,23 +1,25 @@
 package practice_questions;
 
-import java.util.HashSet;
-
 public class MissingNumbers {
     public static void main(String[] args) {
-        int []b = {2,4,1,5,7,8,0,11,12,16,15,14,17};
-        missingNumbers(b);
-    }
-    public static void missingNumbers(int []a){
+        int []b = {8, 2, 4, 5, 3, 7, 1};
+        int result =  missingNumber(b);
+        System.out.println(result);
 
-        HashSet <Integer> set = new HashSet <Integer> ();
-        for(int num :a){
-            set.add(num);
+    }
+
+    public static int missingNumber(int []arr){
+
+
+        long n = arr.length+1;
+        long sum = 0;
+        for(int i=0; i<arr.length; i++){
+
+           sum += arr[i];
         }
-        int n = a.length+5;
-        for(int i=0;i<n;i++){
-            if(!set.contains(i)){
-                System.out.print(i+" ");
-            }
-        }
+
+        long expSum = n*(n+1)/2;
+
+        return (int)(expSum-sum);
     }
 }
