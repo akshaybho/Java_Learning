@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/ArraySubset.java" afterDir="false" />
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="Array subset and missing number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_questions/MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/MissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/KadanesAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/KadanesAlgo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,7 +350,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraySubset">
+  <component name="RunManager" selected="Application.DutchNationalFlag">
     <configuration name="ArraySubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.ArraySubset" />
       <module name="Java_Learning" />
@@ -378,12 +377,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubArraySumOptimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.windowSliding.LongestSubArraySumOptimal" />
+    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.DutchNationalFlag" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.windowSliding.*" />
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.KadanesAlgo" />
+      <module name="Java_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.searching.arryas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,33 +416,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.sorting.SelectionSort_1" />
-      <module name="Java_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GFG.searching.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ArraySubset" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.DutchNationalFlag" />
+      <item itemvalue="Application.KadanesAlgo" />
       <item itemvalue="Application.MissingNumbers" />
-      <item itemvalue="Application.SelectionSort_1" />
-      <item itemvalue="Application.LongestSubArraySumOptimal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DutchNationalFlag" />
+        <item itemvalue="Application.KadanesAlgo" />
         <item itemvalue="Application.ArraySubset" />
         <item itemvalue="Application.MissingNumbers" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort_1" />
-        <item itemvalue="Application.LongestSubArraySumOptimal" />
       </list>
     </recent_temporary>
   </component>
@@ -755,7 +754,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768988765145</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Array subset and missing number">
+      <option name="closed" value="true" />
+      <created>1769015287139</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1769015287139</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -770,7 +777,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new" />
     <MESSAGE value="new jdbc" />
     <MESSAGE value="new jdbc1" />
     <MESSAGE value="new jdbc2" />
@@ -795,7 +801,8 @@
     <MESSAGE value="new gfg problems" />
     <MESSAGE value="leetcode backtrack2" />
     <MESSAGE value="new problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new problems" />
+    <MESSAGE value="Array subset and missing number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array subset and missing number" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
