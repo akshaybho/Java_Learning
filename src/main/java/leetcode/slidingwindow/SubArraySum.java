@@ -1,4 +1,4 @@
-package leetcode.array;
+package leetcode.slidingwindow;
 
 public class SubArraySum {
 
@@ -28,7 +28,10 @@ public class SubArraySum {
             {
                 for(int i = start; i <= end; i++)
                 {
-                    System.out.print(a[i]+" ");
+                    //System.out.print(a[i]+" ");
+                    System.out.print(start+1+" ");
+                    System.out.print(end+1);
+                    break;
                 }
                 return;
             }
