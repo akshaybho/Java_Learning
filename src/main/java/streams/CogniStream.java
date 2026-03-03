@@ -7,7 +7,7 @@ public class CogniStream {
 
     public static void main(String[] args) {
 
-        String s = "tset";  //o/p = es or se
+        String s = "test";  //o/p = es or se
 
         Map<Character, Long> map = s.chars()
                 .mapToObj(c -> (char)c)

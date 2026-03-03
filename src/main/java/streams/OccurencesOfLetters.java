@@ -1,5 +1,6 @@
 package streams;
 
+//Frequency of characters using streams
 import java.util.Map;
 import java.util.stream.Collectors;
 

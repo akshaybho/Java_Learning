@@ -7,7 +7,7 @@ public class Isomorphic {
 
     public static void main(String[] args) {
 
-        boolean status = getResult("title", "paper");
+        boolean status = getResult("title", "silen");
         System.out.println(status);
     }
 
