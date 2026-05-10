@@ -1,4 +1,4 @@
-package dsa.linkedlist;
+package leetcode.linkedlist;
 
 public class LinkedList_4 {
 

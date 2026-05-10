@@ -4,9 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="Array subset and missing number">
+    <list default="true" id="b979b977-092d-4806-80ff-7d46432fd22a" name="Changes" comment="new addition">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/MaxConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/PeakElementOptimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/RangeSumQuery1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/ThirdMaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/bitManipulations/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/bitManipulations/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/LinkedList_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/traverseLL/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/traverseLL/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/MultiplyStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/KadanesAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GFG/searching/arryas/KadanesAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dsa/linkedlist/LinkedList_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/LinkedList_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dsa/linkedlist/LinkedList_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/LinkedList_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dsa/linkedlist/LinkedList_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/LinkedList_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dsa/linkedlist/LinkedList_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/linkedlist/LinkedList_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +30,11 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/ak/Java_Learning" value="2mCUvjsR3h3OouajsQX0hb5E98E" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +70,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -58,288 +82,330 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllRows.executor": "Run",
-    "Application.Altimetric_IQ1.executor": "Run",
-    "Application.Anagram.executor": "Run",
-    "Application.Apti_LCM.executor": "Run",
-    "Application.ArrangeNames.executor": "Run",
-    "Application.ArrayFormInteger.executor": "Run",
-    "Application.ArrayLeaders.executor": "Run",
-    "Application.ArrayList1.executor": "Run",
-    "Application.ArraySubset.executor": "Run",
-    "Application.Array_1.executor": "Run",
-    "Application.AscendingArray.executor": "Run",
-    "Application.AvgArray (1).executor": "Run",
-    "Application.AvgArray.executor": "Run",
-    "Application.BankApp.executor": "Run",
-    "Application.BankOfAmerica.executor": "Run",
-    "Application.BestTimeStock.executor": "Run",
-    "Application.BiFunctionDemo.executor": "Run",
-    "Application.BlobOperation.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.Calendar_1.executor": "Run",
-    "Application.Callable_1.executor": "Run",
-    "Application.Callable_2.executor": "Run",
-    "Application.Callable_3.executor": "Run",
-    "Application.CheckDuplicate.executor": "Run",
-    "Application.ClimbingStairs.executor": "Run",
-    "Application.CogniStream.executor": "Run",
-    "Application.CogniWalkIn.executor": "Run",
-    "Application.Collision.executor": "Run",
-    "Application.CollisionOverride.executor": "Run",
-    "Application.CombinationSum.executor": "Run",
-    "Application.CombinationSumII.executor": "Run",
-    "Application.CommonEle.executor": "Run",
-    "Application.CompoundInterest.executor": "Run",
-    "Application.CompressString.executor": "Run",
-    "Application.ConcatStreams.executor": "Run",
-    "Application.ConnectionPooling_1.executor": "Run",
-    "Application.Constructor_1 (1).executor": "Run",
-    "Application.Constructor_1.executor": "Run",
-    "Application.Constructor_2 (1).executor": "Run",
-    "Application.Constructor_2.executor": "Run",
-    "Application.Constructor_4.executor": "Run",
-    "Application.ContinuosSubArraySum.executor": "Run",
-    "Application.ConvertArraylistToArray.executor": "Run",
-    "Application.CountDigitOfNumber.executor": "Run",
-    "Application.CountWords.executor": "Run",
-    "Application.CountWordsInFile.executor": "Run",
-    "Application.CustomException_1.executor": "Run",
-    "Application.DaemonThread_2.executor": "Run",
-    "Application.DaemonThreads_1.executor": "Run",
-    "Application.DateTimeFormatterDemo.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.Demo_2.executor": "Run",
-    "Application.DescArray.executor": "Run",
-    "Application.DoubleTheOdd.executor": "Run",
-    "Application.DuplicatesInLists.executor": "Run",
-    "Application.DutchNationalFlag.executor": "Run",
-    "Application.DynamicSQLQueries.executor": "Run",
-    "Application.ES1.executor": "Run",
-    "Application.EYQStream.executor": "Run",
-    "Application.Encapsulation2.executor": "Run",
-    "Application.Encapsulation3.executor": "Run",
-    "Application.Exception_2.executor": "Run",
-    "Application.FISInterview.executor": "Coverage",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FibonacciRec.executor": "Run",
-    "Application.FindDistinct.executor": "Run",
-    "Application.FindDuplicates.executor": "Run",
-    "Application.FindDuplicatesStream.executor": "Run",
-    "Application.FirstDemo.executor": "Run",
-    "Application.FirstMissingPositive.executor": "Run",
-    "Application.FirstNonRepeated.executor": "Run",
-    "Application.FirstNonRepeatingChar.executor": "Run",
-    "Application.FirstNonRepeatingWord.executor": "Run",
-    "Application.FirstRepeatingInArray.executor": "Run",
-    "Application.FirstSwingProgram.executor": "Run",
-    "Application.FlatMap.executor": "Run",
-    "Application.FreqOfLetters.executor": "Run",
-    "Application.FrequencyOfChar.executor": "Run",
-    "Application.GSLabIQ.executor": "Run",
-    "Application.GasStation.executor": "Run",
-    "Application.GetImage.executor": "Run",
-    "Application.GroupAnagrams.executor": "Run",
-    "Application.HashMap2.executor": "Run",
-    "Application.HashTable_1.executor": "Run",
-    "Application.Hashmap1.executor": "Run",
-    "Application.IQ1.executor": "Run",
-    "Application.IQ2.executor": "Run",
-    "Application.IQStream.executor": "Run",
-    "Application.IQ_1.executor": "Run",
-    "Application.Incedo_Q.executor": "Run",
-    "Application.IndexOfFirstOccString.executor": "Run",
-    "Application.InsertDynamic.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.InterSectionOfArray.executor": "Run",
-    "Application.InternExample.executor": "Run",
-    "Application.IntersectionArrays.executor": "Run",
-    "Application.Isomorphic.executor": "Run",
-    "Application.JumpGame.executor": "Run",
-    "Application.KadanesAlgo.executor": "Run",
-    "Application.KthLagest.executor": "Run",
-    "Application.KthLargest.executor": "Run",
-    "Application.KthNumberInArray.executor": "Run",
-    "Application.LambdaEmp.executor": "Run",
-    "Application.LambdaStudent.executor": "Run",
-    "Application.LambdaThread (1).executor": "Run",
-    "Application.LambdaThread.executor": "Run",
-    "Application.LargestThree.executor": "Run",
-    "Application.Leetcode209.executor": "Run",
-    "Application.LengthDesc.executor": "Run",
-    "Application.LinkedList1.executor": "Run",
-    "Application.LinkedList_1.executor": "Run",
-    "Application.LinkedList_2.executor": "Run",
-    "Application.LinkedList_3.executor": "Run",
-    "Application.LinkedList_4 (1).executor": "Run",
-    "Application.LinkedList_4.executor": "Run",
-    "Application.ListOfEmployees.executor": "Run",
-    "Application.ListOfPerfect.executor": "Run",
-    "Application.List_1.executor": "Run",
-    "Application.ListofPalindrome.executor": "Run",
-    "Application.LongestCommonPrefix.executor": "Run",
-    "Application.LongestHarmoniousSubsequence.executor": "Run",
-    "Application.LongestIncreasingSubsequence.executor": "Run",
-    "Application.LongestPalindromicSubstring.executor": "Run",
-    "Application.LongestSubArraySum.executor": "Run",
-    "Application.LongestSubArraySumOptimal.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainAccount.executor": "Run",
-    "Application.MainEmployee.executor": "Run",
-    "Application.MainStudent.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MasterCard.executor": "Run",
-    "Application.MaxAvg.executor": "Run",
-    "Application.MaxNumber.executor": "Run",
-    "Application.MaxNumber_1.executor": "Run",
-    "Application.MaxProductArray.executor": "Run",
-    "Application.MaximumAmountWater.executor": "Run",
-    "Application.MissingNumbers.executor": "Run",
-    "Application.MostFrequentWord.executor": "Run",
-    "Application.NeonNumber.executor": "Run",
-    "Application.Number_2.executor": "Run",
-    "Application.NumbersSystem.executor": "Run",
-    "Application.OccurencesOfLetters.executor": "Run",
-    "Application.OccurencesOfNumber.executor": "Run",
-    "Application.OddDouble.executor": "Run",
-    "Application.OddSum.executor": "Run",
-    "Application.OptionalDemo.executor": "Run",
-    "Application.PairNumbers.executor": "Run",
-    "Application.Parallel.executor": "Run",
-    "Application.PartitioningExample.executor": "Run",
-    "Application.PetersonNumber.executor": "Run",
-    "Application.PlusOne.executor": "Run",
-    "Application.PracticeNew.Test.executor": "Run",
-    "Application.PredicateDemo.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.PrimeChecker.executor": "Run",
-    "Application.PrintDupliChar.executor": "Run",
-    "Application.ProductArrayExc.executor": "Run",
-    "Application.ProductOfArray.executor": "Run",
-    "Application.ReadingFile.executor": "Debug",
-    "Application.ReadingPdf.executor": "Run",
-    "Application.RecFactorial.executor": "Run",
-    "Application.RecursionNatSum.executor": "Run",
-    "Application.Recursion_1.executor": "Run",
-    "Application.Recursion_2.executor": "Run",
-    "Application.Regex_3.executor": "Run",
-    "Application.RegisterPage.executor": "Run",
-    "Application.RemoveDupliChar.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.RemoveLeading.executor": "Run",
-    "Application.RemoveLeadingZeros.executor": "Run",
-    "Application.RemoveOccurences.executor": "Run",
-    "Application.RemoveSpaces.executor": "Run",
-    "Application.RemoveSubOccurences.executor": "Run",
-    "Application.ReplaceDupli.executor": "Run",
-    "Application.ResultSetDemo.executor": "Run",
-    "Application.ResultSet_1.executor": "Run",
-    "Application.ResultSet_2.executor": "Run",
-    "Application.RevSentenceInterviewQuest.executor": "Run",
-    "Application.RevWordInSen.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReversePolishNotation.executor": "Run",
-    "Application.Reverse_Number.executor": "Run",
-    "Application.RotateArray.executor": "Run",
-    "Application.RotateArrayLeft.executor": "Run",
-    "Application.RotateArrayRight.executor": "Run",
-    "Application.RotateImage.executor": "Run",
-    "Application.Safe.executor": "Run",
-    "Application.SearchInRotated.executor": "Run",
-    "Application.SearchInsertPosition.executor": "Run",
-    "Application.SecondDemo.executor": "Run",
-    "Application.SecondLargest.executor": "Run",
-    "Application.SegregateEvenOddBruteForce.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.SelectionSort_1.executor": "Run",
-    "Application.SharedObj.executor": "Run",
-    "Application.SingleNumber.executor": "Run",
-    "Application.SortMatrixCol.executor": "Run",
-    "Application.Special.executor": "Run",
-    "Application.StackClass_ArrayList (1).executor": "Run",
-    "Application.StackClass_ArrayList (2).executor": "Run",
-    "Application.StackClass_ArrayList.executor": "Run",
-    "Application.StackClass_LinkedList.executor": "Run",
-    "Application.StreamFunctions.executor": "Run",
-    "Application.Stream_1.executor": "Run",
-    "Application.Stream_4.executor": "Run",
-    "Application.Stream_6.executor": "Run",
-    "Application.Stream_8 (1).executor": "Run",
-    "Application.Stream_8.executor": "Run",
-    "Application.Stream_9.executor": "Run",
-    "Application.String_4.executor": "Run",
-    "Application.String_5.executor": "Run",
-    "Application.String_L2.executor": "Run",
-    "Application.SubArraySum.executor": "Run",
-    "Application.SumOfCharacters.executor": "Run",
-    "Application.SumOfElements.executor": "Run",
-    "Application.SunnyNumber.executor": "Run",
-    "Application.TaoDigital.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Test (1).executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestClass.executor": "Run",
-    "Application.TestHashEquals (1).executor": "Run",
-    "Application.TestHashEquals (2).executor": "Run",
-    "Application.TestHashEquals (3).executor": "Run",
-    "Application.TestHashEquals.executor": "Run",
-    "Application.TestPractice.executor": "Run",
-    "Application.Test_1.executor": "Run",
-    "Application.Test_15.executor": "Run",
-    "Application.Test_16.executor": "Run",
-    "Application.Test_2 (1).executor": "Run",
-    "Application.Test_2.executor": "Run",
-    "Application.Test_3.executor": "Run",
-    "Application.ThreadPool_1.executor": "Run",
-    "Application.ThreeSumLeet.executor": "Run",
-    "Application.TraceOfMatrix.executor": "Run",
-    "Application.TrainReservation (1).executor": "Run",
-    "Application.TrainReservation (2).executor": "Run",
-    "Application.TrainReservation (3).executor": "Run",
-    "Application.TrainReservation (4).executor": "Run",
-    "Application.TrainReservation (5).executor": "Run",
-    "Application.TrainReservation.executor": "Run",
-    "Application.Transaction_1.executor": "Run",
-    "Application.TransposeOfMatrix.executor": "Run",
-    "Application.TransposeRect.executor": "Run",
-    "Application.TransposeSquare.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.UnionArray.executor": "Run",
-    "Application.UniqueCharacters.executor": "Run",
-    "Application.UniqueWordInList.executor": "Run",
-    "Application.Unsafe.executor": "Run",
-    "Application.ValidParenthesis.executor": "Run",
-    "Application.WaterBottles.executor": "Run",
-    "Application.WordPattern.executor": "Run",
-    "Application.WritingFile.executor": "Run",
-    "Application.autoboxing.Main.executor": "Run",
-    "Application.designPatterns.strategyPattern.signleton.Main.executor": "Run",
-    "Application.designPatterns.strategyPattern.strategy.Main.executor": "Run",
-    "Application.incedo_2.executor": "Run",
-    "Application.optional.Test.executor": "Run",
-    "Application.palindrome_number.executor": "Run",
-    "Application.streams.specailCases.Main.executor": "Run",
-    "Application.streams.specialCase2.Main.executor": "Run",
-    "Maven.Java_Learning [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ak/ElectronicStore",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Altimetric_IQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Apti_LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrangeNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayFormInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayLeaders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySubset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AscendingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgArray (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankOfAmerica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BestTimeStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BiFunctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryToDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlobOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calendar_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Callable_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CogniStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CogniWalkIn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollisionOverride.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSumII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonEle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompressString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConnectionPooling_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinuosSubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertArraylistToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CostClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigitOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWordsInFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThread_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThreads_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTimeFormatterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleTheOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicatesInLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DutchNationalFlag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicSQLQueries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ES1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EYQStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FISInterview.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicatesStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstMissingPositive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatingInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstSwingProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqOfLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqWords (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FruitsIntoBasket.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FruitsIntoBasket2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GSLabIQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GasStation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTable_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hashmap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQAmbitionBox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IQ_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Incedo_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfFirstOccString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertDynamic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterSectionOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InternExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Isomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JumpGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KadanesAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLagest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaEmp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaThread (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leetcode209.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthDesc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfEmployees.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfPerfect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListofPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestHarmoniousSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestIncreasingSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestPalindromicSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubArraySumOptimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MasterCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAvg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutiveOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumber_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProductArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAmountWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinHtsTower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostFrequentWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NeonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurencesOfLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurencesOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parallel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PartitioningExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalTriangle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakElementBruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakElementOptimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PetersonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeNew.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintDupliChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductArrayExc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeSumQuery1D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingFile.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReadingPdf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursionNatSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Regex_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegisterPage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDupliChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveLeading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveLeadingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveSubOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceDupli.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSet_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultSet_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevSentenceInterviewQuest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevWordInSen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePolishNotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayLeft.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateByOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Safe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SegregateEvenOddBruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SharedObj.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortMatrixCol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Special.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClass_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_8 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_L2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SummaryRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SunnyNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaoDigital.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashEquals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdMaxNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPool_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSumLeet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraceOfMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainReservation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transaction_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeOfMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeRect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnionArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueWordInList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unsafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaterBottles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WritingFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.autoboxing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.designPatterns.strategyPattern.signleton.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.designPatterns.strategyPattern.strategy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.incedo_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leetcode.linkedlist.LinkedList_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.optional.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.streams.specailCases.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.streams.specialCase2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Java_Learning [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ak/ElectronicStore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JDBC.batchUpdations" />
@@ -350,13 +416,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.DutchNationalFlag">
-    <configuration name="ArraySubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.ArraySubset" />
+  <component name="RunManager" selected="Application.BestTimeStock">
+    <configuration name="BestTimeStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.array.BestTimeStock" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="leetcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +430,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.sorting.BubbleSort" />
+    <configuration name="LinkedList_4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.linkedlist.LinkedList_4" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.sorting.*" />
+          <option name="PATTERN" value="dsa.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +443,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DutchNationalFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.DutchNationalFlag" />
+    <configuration name="LinkedList_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.linkedlist.LinkedList_4" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="dsa.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,12 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.searching.arryas.KadanesAlgo" />
+    <configuration name="LinkedList_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.linkedlist.LinkedList_5" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.searching.arryas.*" />
+          <option name="PATTERN" value="dsa.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +469,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.MissingNumbers" />
+    <configuration name="leetcode.linkedlist.LinkedList_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.linkedlist.LinkedList_5" />
       <module name="Java_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.*" />
+          <option name="PATTERN" value="leetcode.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,21 +483,28 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArraySubset" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.DutchNationalFlag" />
-      <item itemvalue="Application.KadanesAlgo" />
-      <item itemvalue="Application.MissingNumbers" />
+      <item itemvalue="Application.BestTimeStock" />
+      <item itemvalue="Application.leetcode.linkedlist.LinkedList_5" />
+      <item itemvalue="Application.LinkedList_5" />
+      <item itemvalue="Application.LinkedList_4" />
+      <item itemvalue="Application.LinkedList_4 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DutchNationalFlag" />
-        <item itemvalue="Application.KadanesAlgo" />
-        <item itemvalue="Application.ArraySubset" />
-        <item itemvalue="Application.MissingNumbers" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.BestTimeStock" />
+        <item itemvalue="Application.leetcode.linkedlist.LinkedList_5" />
+        <item itemvalue="Application.LinkedList_5" />
+        <item itemvalue="Application.LinkedList_4 (1)" />
+        <item itemvalue="Application.LinkedList_4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -441,6 +514,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726580286227</updated>
+      <workItem from="1773582429434" duration="838000" />
+      <workItem from="1773767096920" duration="1701000" />
+      <workItem from="1773804395279" duration="4794000" />
+      <workItem from="1773834883588" duration="2446000" />
+      <workItem from="1773841892804" duration="2697000" />
+      <workItem from="1773895804181" duration="23000" />
+      <workItem from="1773924499487" duration="4171000" />
+      <workItem from="1774069061610" duration="95000" />
+      <workItem from="1774839414671" duration="5447000" />
+      <workItem from="1775835462131" duration="2866000" />
+      <workItem from="1775912350503" duration="5470000" />
+      <workItem from="1775985376920" duration="1673000" />
+      <workItem from="1775993415652" duration="19000" />
+      <workItem from="1776313862751" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Java">
       <option name="closed" value="true" />
@@ -762,8 +849,83 @@
       <option name="project" value="LOCAL" />
       <updated>1769015287139</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="change in kadanes">
+      <option name="closed" value="true" />
+      <created>1769018128044</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1769018128044</updated>
+    </task>
+    <task id="LOCAL-00042" summary="insertion sort">
+      <option name="closed" value="true" />
+      <created>1769103560200</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1769103560200</updated>
+    </task>
+    <task id="LOCAL-00043" summary="insertion sort1">
+      <option name="closed" value="true" />
+      <created>1769103604006</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1769103604006</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fruits into basket">
+      <option name="closed" value="true" />
+      <created>1769837537980</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1769837537980</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fruits into basket2">
+      <option name="closed" value="true" />
+      <created>1770047160992</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1770047160992</updated>
+    </task>
+    <task id="LOCAL-00046" summary="sum3 closest">
+      <option name="closed" value="true" />
+      <created>1770227201679</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1770227201679</updated>
+    </task>
+    <task id="LOCAL-00047" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1770383176351</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1770383176351</updated>
+    </task>
+    <task id="LOCAL-00048" summary="new add">
+      <option name="closed" value="true" />
+      <created>1770997439006</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1770997439006</updated>
+    </task>
+    <task id="LOCAL-00049" summary="new addition">
+      <option name="closed" value="true" />
+      <created>1772516074862</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1772516074862</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -777,15 +939,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new jdbc" />
-    <MESSAGE value="new jdbc1" />
-    <MESSAGE value="new jdbc2" />
-    <MESSAGE value="uniqueWords" />
-    <MESSAGE value="jdbcupdated" />
-    <MESSAGE value="new update_1" />
-    <MESSAGE value="new update_2" />
-    <MESSAGE value="new update_3" />
-    <MESSAGE value="new update_4" />
     <MESSAGE value="new update_5" />
     <MESSAGE value="new update_6" />
     <MESSAGE value="new update_7" />
@@ -802,11 +955,28 @@
     <MESSAGE value="leetcode backtrack2" />
     <MESSAGE value="new problems" />
     <MESSAGE value="Array subset and missing number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array subset and missing number" />
+    <MESSAGE value="change in kadanes" />
+    <MESSAGE value="insertion sort" />
+    <MESSAGE value="insertion sort1" />
+    <MESSAGE value="fruits into basket" />
+    <MESSAGE value="fruits into basket2" />
+    <MESSAGE value="sum3 closest" />
+    <MESSAGE value="some changes" />
+    <MESSAGE value="new add" />
+    <MESSAGE value="new addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="new addition" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Learning$FISInterview.ic" NAME="FISInterview Coverage Results" MODIFIED="1745388432683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>practice_questions.*</FILTER>
     </SUITE>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
